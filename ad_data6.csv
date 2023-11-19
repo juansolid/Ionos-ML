@@ -1,0 +1,1001 @@
+store,copy,audience,age_of_audicence,product,keywords,time_of_day,clicked
+Sams,50% off!,teens,11,2,sale,20,0
+Costco,Best in town!,teens,11,2,exclusive,11,0
+Costco,50% off!,teens,11,2,offer,13,1
+Wal-Mart,Limited offer!,parents,35,1,sale,4,1
+Amazon,50% off!,elderly,70,5,offer,1,0
+Costco,Limited offer!,adults,36,3,sale,16,1
+Sams,Don't miss out!,parents,35,1,limited,15,1
+Amazon,50% off!,teens,11,2,exclusive,8,0
+Wal-Mart,Best in town!,students,23,1,discount,14,0
+Costco,Buy now!,elderly,70,5,bestseller,22,1
+Amazon,50% off!,parents,35,1,sale,10,1
+Costco,50% off!,teens,11,2,discount,16,0
+Wal-Mart,Limited offer!,adults,36,3,sale,13,0
+Amazon,Limited offer!,elderly,70,5,exclusive,1,1
+Wal-Mart,Best in town!,elderly,70,5,sale,22,0
+Wal-Mart,Buy now!,students,23,1,limited,10,1
+Wal-Mart,50% off!,teens,11,2,sale,15,0
+Amazon,Buy now!,students,23,1,exclusive,22,1
+Amazon,Limited offer!,adults,36,3,limited,23,1
+Sams,Don't miss out!,parents,35,1,discount,23,0
+Costco,Best in town!,parents,35,1,limited,10,0
+Sams,Buy now!,adults,36,3,discount,2,0
+Costco,Don't miss out!,teens,11,2,discount,22,1
+Costco,Best in town!,elderly,70,5,offer,20,1
+Costco,Don't miss out!,students,23,1,sale,0,1
+Wal-Mart,50% off!,students,23,1,sale,13,1
+Amazon,Best in town!,students,23,1,exclusive,16,1
+Sams,Buy now!,elderly,70,5,sale,7,1
+Wal-Mart,Best in town!,elderly,70,5,discount,20,1
+Costco,Buy now!,elderly,70,5,offer,10,1
+Wal-Mart,Hurry up!,parents,35,1,offer,18,1
+Costco,Hurry up!,parents,35,1,offer,19,1
+Wal-Mart,Best in town!,adults,36,3,discount,15,0
+Sams,Buy now!,teens,11,2,bestseller,17,1
+Sams,Best in town!,adults,36,3,limited,7,1
+Amazon,Don't miss out!,elderly,70,5,limited,2,1
+Costco,Hurry up!,elderly,70,5,sale,11,1
+Costco,50% off!,students,23,1,discount,21,1
+Costco,Best in town!,elderly,70,5,discount,7,1
+Sams,Buy now!,students,23,1,limited,5,0
+Amazon,Best in town!,students,23,1,limited,8,1
+Sams,Best in town!,students,23,1,bestseller,3,1
+Wal-Mart,Hurry up!,adults,36,3,limited,20,1
+Costco,Limited offer!,parents,35,1,limited,18,0
+Costco,Best in town!,parents,35,1,limited,16,0
+Costco,Limited offer!,parents,35,1,sale,16,1
+Costco,50% off!,adults,36,3,bestseller,4,1
+Wal-Mart,50% off!,adults,36,3,sale,0,1
+Costco,Don't miss out!,parents,35,1,sale,8,1
+Amazon,Best in town!,adults,36,3,bestseller,22,0
+Sams,Best in town!,students,23,1,exclusive,2,0
+Costco,Hurry up!,adults,36,3,sale,19,0
+Wal-Mart,Hurry up!,parents,35,1,discount,21,0
+Wal-Mart,Best in town!,elderly,70,5,bestseller,18,0
+Sams,Don't miss out!,teens,11,2,offer,20,1
+Sams,50% off!,teens,11,2,limited,20,0
+Amazon,Buy now!,students,23,1,bestseller,23,0
+Amazon,Don't miss out!,elderly,70,5,exclusive,4,1
+Amazon,Limited offer!,adults,36,3,offer,10,1
+Amazon,50% off!,teens,11,2,offer,0,0
+Sams,Limited offer!,students,23,1,exclusive,2,1
+Wal-Mart,Limited offer!,students,23,1,limited,17,1
+Costco,Hurry up!,elderly,70,5,offer,17,0
+Costco,Best in town!,students,23,1,sale,0,1
+Costco,50% off!,students,23,1,sale,19,1
+Wal-Mart,50% off!,teens,11,2,offer,12,0
+Wal-Mart,Don't miss out!,teens,11,2,offer,18,1
+Costco,Don't miss out!,parents,35,1,discount,22,0
+Costco,Don't miss out!,adults,36,3,bestseller,3,0
+Costco,Don't miss out!,parents,35,1,exclusive,16,1
+Wal-Mart,Limited offer!,parents,35,1,discount,2,1
+Sams,Best in town!,teens,11,2,discount,23,1
+Wal-Mart,Buy now!,parents,35,1,sale,19,0
+Sams,Limited offer!,adults,36,3,sale,6,1
+Wal-Mart,Hurry up!,teens,11,2,limited,6,1
+Sams,Limited offer!,teens,11,2,sale,23,1
+Sams,Limited offer!,parents,35,1,exclusive,15,0
+Sams,Don't miss out!,students,23,1,bestseller,7,1
+Costco,50% off!,adults,36,3,offer,4,1
+Sams,Best in town!,parents,35,1,bestseller,19,0
+Sams,Hurry up!,parents,35,1,exclusive,18,1
+Sams,50% off!,adults,36,3,exclusive,16,1
+Wal-Mart,Best in town!,students,23,1,limited,7,0
+Costco,50% off!,elderly,70,5,offer,23,0
+Costco,Limited offer!,teens,11,2,offer,10,0
+Costco,Limited offer!,elderly,70,5,discount,6,1
+Costco,50% off!,students,23,1,offer,20,0
+Wal-Mart,Don't miss out!,teens,11,2,exclusive,18,1
+Sams,Buy now!,adults,36,3,limited,4,1
+Wal-Mart,Limited offer!,students,23,1,discount,16,0
+Amazon,Limited offer!,parents,35,1,bestseller,5,0
+Wal-Mart,50% off!,elderly,70,5,bestseller,5,1
+Sams,50% off!,students,23,1,offer,11,0
+Amazon,Best in town!,parents,35,1,discount,12,0
+Amazon,50% off!,teens,11,2,offer,21,0
+Wal-Mart,Best in town!,teens,11,2,sale,8,1
+Wal-Mart,Buy now!,teens,11,2,discount,5,0
+Costco,Limited offer!,teens,11,2,offer,2,0
+Costco,Best in town!,adults,36,3,offer,20,1
+Wal-Mart,Don't miss out!,students,23,1,offer,3,0
+Sams,Buy now!,students,23,1,exclusive,1,1
+Sams,Best in town!,adults,36,3,limited,15,0
+Amazon,Buy now!,elderly,70,5,discount,11,1
+Amazon,Best in town!,adults,36,3,exclusive,11,1
+Amazon,Best in town!,adults,36,3,bestseller,17,0
+Sams,Best in town!,elderly,70,5,offer,10,1
+Sams,Best in town!,parents,35,1,discount,9,0
+Wal-Mart,Don't miss out!,teens,11,2,limited,16,1
+Costco,50% off!,adults,36,3,discount,10,1
+Amazon,Don't miss out!,students,23,1,sale,23,1
+Wal-Mart,50% off!,parents,35,1,discount,18,0
+Costco,50% off!,adults,36,3,sale,23,1
+Wal-Mart,Hurry up!,adults,36,3,offer,18,1
+Sams,Don't miss out!,adults,36,3,discount,22,0
+Wal-Mart,Limited offer!,parents,35,1,discount,12,0
+Costco,Buy now!,adults,36,3,bestseller,12,1
+Sams,Best in town!,parents,35,1,limited,20,1
+Sams,Don't miss out!,students,23,1,exclusive,18,0
+Sams,Best in town!,teens,11,2,discount,9,0
+Wal-Mart,Limited offer!,students,23,1,bestseller,5,1
+Costco,Hurry up!,teens,11,2,exclusive,0,0
+Amazon,Hurry up!,elderly,70,5,bestseller,21,0
+Amazon,Limited offer!,teens,11,2,limited,18,1
+Amazon,Buy now!,students,23,1,offer,23,1
+Amazon,Best in town!,adults,36,3,limited,8,1
+Amazon,50% off!,students,23,1,bestseller,6,1
+Amazon,Best in town!,elderly,70,5,limited,11,1
+Wal-Mart,50% off!,teens,11,2,sale,10,1
+Costco,Hurry up!,students,23,1,limited,3,0
+Amazon,Best in town!,elderly,70,5,sale,20,1
+Sams,Hurry up!,elderly,70,5,bestseller,4,0
+Costco,Buy now!,elderly,70,5,sale,14,1
+Wal-Mart,Hurry up!,students,23,1,exclusive,6,0
+Sams,Limited offer!,adults,36,3,limited,20,0
+Amazon,50% off!,students,23,1,sale,1,0
+Amazon,Hurry up!,parents,35,1,sale,1,1
+Sams,Hurry up!,adults,36,3,sale,16,0
+Amazon,50% off!,adults,36,3,bestseller,11,1
+Wal-Mart,Don't miss out!,adults,36,3,offer,20,0
+Costco,Hurry up!,parents,35,1,bestseller,10,0
+Costco,50% off!,adults,36,3,exclusive,12,1
+Sams,50% off!,parents,35,1,bestseller,22,0
+Sams,Don't miss out!,teens,11,2,bestseller,12,0
+Amazon,Best in town!,adults,36,3,limited,6,0
+Sams,Buy now!,parents,35,1,limited,3,1
+Sams,Limited offer!,students,23,1,offer,9,1
+Amazon,Hurry up!,adults,36,3,sale,20,1
+Costco,Don't miss out!,elderly,70,5,sale,10,1
+Amazon,50% off!,teens,11,2,bestseller,11,1
+Costco,Best in town!,elderly,70,5,offer,6,1
+Amazon,Best in town!,parents,35,1,discount,2,0
+Amazon,Best in town!,parents,35,1,limited,14,0
+Amazon,50% off!,adults,36,3,discount,19,1
+Amazon,Hurry up!,adults,36,3,limited,11,0
+Costco,50% off!,adults,36,3,sale,19,1
+Costco,Limited offer!,students,23,1,sale,17,0
+Costco,Limited offer!,students,23,1,exclusive,1,0
+Sams,Limited offer!,parents,35,1,limited,11,1
+Costco,Hurry up!,elderly,70,5,discount,23,0
+Sams,Don't miss out!,parents,35,1,bestseller,13,0
+Sams,Hurry up!,teens,11,2,sale,20,1
+Sams,Best in town!,teens,11,2,bestseller,11,0
+Amazon,Don't miss out!,elderly,70,5,offer,18,1
+Costco,50% off!,parents,35,1,discount,1,1
+Wal-Mart,Don't miss out!,teens,11,2,exclusive,1,1
+Amazon,Don't miss out!,teens,11,2,offer,13,0
+Sams,Don't miss out!,students,23,1,offer,16,1
+Sams,50% off!,teens,11,2,limited,1,0
+Costco,Limited offer!,parents,35,1,discount,8,0
+Costco,50% off!,teens,11,2,sale,15,1
+Amazon,Hurry up!,students,23,1,discount,17,0
+Wal-Mart,Buy now!,parents,35,1,bestseller,11,0
+Amazon,Best in town!,adults,36,3,discount,5,0
+Sams,Best in town!,adults,36,3,bestseller,15,1
+Costco,Limited offer!,adults,36,3,offer,22,1
+Sams,Best in town!,teens,11,2,offer,14,1
+Sams,Buy now!,parents,35,1,sale,23,1
+Costco,Buy now!,parents,35,1,limited,10,0
+Amazon,Best in town!,parents,35,1,limited,16,1
+Amazon,Limited offer!,elderly,70,5,discount,18,1
+Wal-Mart,Limited offer!,adults,36,3,limited,19,0
+Wal-Mart,Limited offer!,teens,11,2,offer,8,1
+Amazon,Don't miss out!,students,23,1,bestseller,20,0
+Costco,50% off!,elderly,70,5,sale,6,1
+Costco,Hurry up!,parents,35,1,bestseller,2,1
+Amazon,Best in town!,teens,11,2,sale,6,1
+Sams,Buy now!,parents,35,1,limited,1,0
+Amazon,Limited offer!,adults,36,3,bestseller,12,1
+Costco,50% off!,students,23,1,offer,18,0
+Costco,Hurry up!,elderly,70,5,discount,0,0
+Wal-Mart,Buy now!,elderly,70,5,exclusive,11,1
+Costco,Buy now!,teens,11,2,discount,20,1
+Costco,Best in town!,elderly,70,5,bestseller,5,0
+Sams,Buy now!,adults,36,3,offer,14,0
+Amazon,Don't miss out!,teens,11,2,limited,17,0
+Amazon,Buy now!,elderly,70,5,sale,17,0
+Wal-Mart,Hurry up!,students,23,1,limited,6,0
+Sams,Hurry up!,adults,36,3,bestseller,9,0
+Amazon,Hurry up!,students,23,1,discount,3,1
+Amazon,Hurry up!,parents,35,1,bestseller,23,0
+Amazon,Best in town!,elderly,70,5,bestseller,22,1
+Sams,Hurry up!,elderly,70,5,discount,6,0
+Wal-Mart,Hurry up!,students,23,1,limited,22,1
+Amazon,50% off!,adults,36,3,sale,15,1
+Costco,Buy now!,teens,11,2,discount,20,0
+Costco,Limited offer!,elderly,70,5,limited,17,1
+Wal-Mart,50% off!,students,23,1,limited,8,0
+Amazon,Buy now!,parents,35,1,discount,20,0
+Wal-Mart,Best in town!,parents,35,1,sale,12,1
+Amazon,Hurry up!,parents,35,1,exclusive,10,0
+Sams,Buy now!,adults,36,3,discount,9,0
+Amazon,Don't miss out!,adults,36,3,limited,13,1
+Amazon,Best in town!,parents,35,1,discount,11,0
+Costco,Hurry up!,teens,11,2,sale,7,1
+Amazon,Hurry up!,elderly,70,5,bestseller,12,0
+Costco,Hurry up!,teens,11,2,discount,16,1
+Amazon,Hurry up!,teens,11,2,limited,10,0
+Wal-Mart,Hurry up!,adults,36,3,exclusive,7,1
+Sams,Buy now!,elderly,70,5,bestseller,13,0
+Costco,50% off!,teens,11,2,bestseller,13,1
+Sams,Buy now!,elderly,70,5,offer,22,0
+Sams,Don't miss out!,adults,36,3,offer,23,1
+Costco,Don't miss out!,adults,36,3,bestseller,17,1
+Sams,Best in town!,parents,35,1,exclusive,3,0
+Amazon,Don't miss out!,teens,11,2,discount,15,0
+Amazon,Best in town!,parents,35,1,discount,23,0
+Amazon,Don't miss out!,parents,35,1,discount,16,0
+Wal-Mart,Buy now!,students,23,1,exclusive,9,1
+Costco,Hurry up!,adults,36,3,sale,7,1
+Amazon,Buy now!,elderly,70,5,discount,7,1
+Amazon,Don't miss out!,adults,36,3,discount,6,0
+Sams,Hurry up!,elderly,70,5,limited,3,0
+Amazon,Best in town!,teens,11,2,exclusive,18,0
+Sams,Buy now!,teens,11,2,limited,11,1
+Sams,Best in town!,teens,11,2,bestseller,10,0
+Wal-Mart,Limited offer!,students,23,1,limited,16,0
+Costco,Best in town!,teens,11,2,limited,9,0
+Sams,Limited offer!,parents,35,1,discount,2,1
+Amazon,Best in town!,parents,35,1,offer,3,1
+Costco,Limited offer!,adults,36,3,exclusive,2,0
+Amazon,Don't miss out!,elderly,70,5,discount,15,0
+Wal-Mart,Hurry up!,teens,11,2,offer,11,0
+Wal-Mart,Hurry up!,adults,36,3,exclusive,4,1
+Wal-Mart,50% off!,students,23,1,limited,12,0
+Amazon,Don't miss out!,adults,36,3,sale,20,1
+Amazon,Buy now!,teens,11,2,bestseller,10,0
+Wal-Mart,Best in town!,teens,11,2,bestseller,21,0
+Amazon,Best in town!,elderly,70,5,discount,5,0
+Costco,50% off!,adults,36,3,discount,20,1
+Costco,Best in town!,teens,11,2,offer,11,1
+Amazon,Don't miss out!,adults,36,3,offer,23,1
+Amazon,Hurry up!,elderly,70,5,offer,9,0
+Wal-Mart,50% off!,elderly,70,5,exclusive,0,0
+Amazon,Buy now!,parents,35,1,limited,17,0
+Amazon,Hurry up!,parents,35,1,limited,10,0
+Wal-Mart,Don't miss out!,parents,35,1,offer,7,1
+Costco,Buy now!,elderly,70,5,bestseller,6,0
+Sams,50% off!,teens,11,2,offer,9,0
+Costco,Limited offer!,parents,35,1,limited,17,1
+Costco,50% off!,teens,11,2,sale,6,1
+Wal-Mart,Best in town!,students,23,1,discount,6,1
+Sams,50% off!,teens,11,2,bestseller,12,1
+Wal-Mart,Hurry up!,adults,36,3,sale,20,0
+Wal-Mart,Don't miss out!,teens,11,2,exclusive,8,0
+Sams,50% off!,students,23,1,exclusive,21,1
+Amazon,Buy now!,adults,36,3,exclusive,12,0
+Costco,Don't miss out!,parents,35,1,limited,22,0
+Amazon,Buy now!,students,23,1,sale,7,1
+Sams,Best in town!,teens,11,2,limited,0,1
+Costco,Don't miss out!,teens,11,2,offer,5,0
+Costco,Buy now!,students,23,1,discount,16,0
+Amazon,Limited offer!,adults,36,3,offer,11,1
+Wal-Mart,Buy now!,students,23,1,exclusive,1,1
+Sams,Best in town!,adults,36,3,exclusive,23,0
+Costco,Limited offer!,elderly,70,5,limited,6,0
+Costco,Best in town!,parents,35,1,bestseller,17,1
+Sams,50% off!,students,23,1,limited,9,0
+Wal-Mart,Limited offer!,teens,11,2,discount,22,1
+Costco,Hurry up!,teens,11,2,bestseller,14,1
+Wal-Mart,Hurry up!,teens,11,2,sale,12,0
+Wal-Mart,Limited offer!,adults,36,3,sale,9,1
+Amazon,Buy now!,teens,11,2,offer,15,0
+Costco,50% off!,teens,11,2,limited,22,1
+Wal-Mart,Limited offer!,adults,36,3,sale,4,1
+Amazon,Hurry up!,teens,11,2,discount,7,0
+Amazon,Best in town!,students,23,1,offer,14,0
+Wal-Mart,Hurry up!,students,23,1,exclusive,7,0
+Sams,Best in town!,elderly,70,5,bestseller,22,0
+Amazon,Hurry up!,parents,35,1,exclusive,23,1
+Sams,50% off!,adults,36,3,exclusive,9,1
+Costco,50% off!,adults,36,3,limited,19,1
+Wal-Mart,Best in town!,teens,11,2,sale,14,0
+Wal-Mart,Don't miss out!,elderly,70,5,discount,18,0
+Costco,Don't miss out!,adults,36,3,sale,1,0
+Wal-Mart,Don't miss out!,students,23,1,exclusive,23,1
+Amazon,Hurry up!,teens,11,2,exclusive,22,1
+Amazon,Limited offer!,teens,11,2,exclusive,14,0
+Sams,Don't miss out!,students,23,1,exclusive,17,1
+Costco,Hurry up!,elderly,70,5,limited,15,0
+Amazon,Buy now!,adults,36,3,offer,7,1
+Wal-Mart,50% off!,students,23,1,bestseller,8,1
+Amazon,Limited offer!,students,23,1,bestseller,23,0
+Sams,Best in town!,parents,35,1,offer,20,0
+Sams,Best in town!,parents,35,1,exclusive,6,0
+Amazon,Limited offer!,teens,11,2,sale,22,1
+Costco,50% off!,adults,36,3,sale,0,1
+Amazon,Don't miss out!,adults,36,3,sale,12,1
+Amazon,Best in town!,elderly,70,5,bestseller,10,0
+Costco,Don't miss out!,students,23,1,sale,6,1
+Wal-Mart,Buy now!,elderly,70,5,bestseller,7,1
+Amazon,50% off!,adults,36,3,bestseller,17,1
+Costco,Hurry up!,elderly,70,5,limited,9,0
+Costco,Don't miss out!,adults,36,3,sale,18,1
+Amazon,Hurry up!,students,23,1,limited,23,1
+Amazon,Hurry up!,adults,36,3,bestseller,1,0
+Wal-Mart,Limited offer!,elderly,70,5,sale,12,1
+Sams,Hurry up!,parents,35,1,sale,18,0
+Sams,50% off!,teens,11,2,exclusive,16,1
+Amazon,Hurry up!,teens,11,2,discount,22,1
+Wal-Mart,Don't miss out!,elderly,70,5,bestseller,9,0
+Sams,50% off!,parents,35,1,exclusive,22,1
+Sams,Don't miss out!,elderly,70,5,limited,8,1
+Costco,Buy now!,students,23,1,limited,17,1
+Sams,Best in town!,parents,35,1,bestseller,16,1
+Costco,Best in town!,teens,11,2,limited,17,0
+Costco,Best in town!,elderly,70,5,exclusive,17,0
+Sams,Don't miss out!,students,23,1,sale,23,0
+Wal-Mart,Don't miss out!,teens,11,2,sale,10,1
+Wal-Mart,Best in town!,adults,36,3,exclusive,9,1
+Wal-Mart,Hurry up!,parents,35,1,limited,14,1
+Sams,Best in town!,students,23,1,sale,18,0
+Amazon,Hurry up!,students,23,1,bestseller,8,0
+Sams,50% off!,parents,35,1,limited,18,0
+Amazon,Don't miss out!,elderly,70,5,offer,13,1
+Costco,Best in town!,teens,11,2,exclusive,19,1
+Costco,Hurry up!,elderly,70,5,offer,7,0
+Amazon,Best in town!,elderly,70,5,limited,15,1
+Sams,50% off!,parents,35,1,sale,13,1
+Amazon,Limited offer!,teens,11,2,exclusive,3,0
+Sams,Don't miss out!,parents,35,1,offer,12,1
+Costco,Hurry up!,students,23,1,discount,21,0
+Sams,Hurry up!,teens,11,2,bestseller,5,1
+Wal-Mart,50% off!,elderly,70,5,sale,20,1
+Amazon,Buy now!,elderly,70,5,sale,9,1
+Amazon,Buy now!,adults,36,3,exclusive,7,0
+Sams,Don't miss out!,teens,11,2,limited,22,0
+Costco,Hurry up!,teens,11,2,discount,3,0
+Wal-Mart,Limited offer!,adults,36,3,bestseller,21,0
+Costco,Hurry up!,students,23,1,offer,12,0
+Wal-Mart,Hurry up!,students,23,1,exclusive,15,0
+Amazon,Don't miss out!,teens,11,2,discount,1,1
+Amazon,50% off!,parents,35,1,offer,3,0
+Costco,50% off!,adults,36,3,discount,14,1
+Wal-Mart,Hurry up!,students,23,1,limited,4,0
+Sams,Limited offer!,teens,11,2,exclusive,15,0
+Costco,50% off!,students,23,1,bestseller,18,0
+Wal-Mart,50% off!,adults,36,3,sale,5,1
+Costco,Hurry up!,parents,35,1,exclusive,17,1
+Costco,Don't miss out!,teens,11,2,offer,6,0
+Amazon,50% off!,students,23,1,limited,9,0
+Costco,Limited offer!,students,23,1,sale,19,0
+Wal-Mart,Hurry up!,adults,36,3,limited,5,0
+Wal-Mart,Best in town!,parents,35,1,offer,13,1
+Costco,Buy now!,elderly,70,5,bestseller,23,0
+Amazon,Limited offer!,students,23,1,limited,4,0
+Costco,Buy now!,parents,35,1,exclusive,22,0
+Wal-Mart,50% off!,teens,11,2,sale,8,1
+Sams,Best in town!,elderly,70,5,bestseller,23,0
+Sams,Best in town!,teens,11,2,offer,9,0
+Sams,Buy now!,teens,11,2,exclusive,13,0
+Amazon,Best in town!,students,23,1,discount,6,1
+Wal-Mart,Don't miss out!,adults,36,3,limited,17,1
+Sams,Buy now!,teens,11,2,sale,21,1
+Wal-Mart,Hurry up!,elderly,70,5,offer,23,0
+Costco,Buy now!,teens,11,2,sale,19,0
+Wal-Mart,Best in town!,students,23,1,exclusive,20,0
+Sams,Buy now!,elderly,70,5,sale,9,1
+Sams,Limited offer!,teens,11,2,sale,19,0
+Amazon,Best in town!,students,23,1,limited,11,0
+Costco,Best in town!,adults,36,3,exclusive,22,1
+Wal-Mart,50% off!,teens,11,2,exclusive,2,1
+Sams,Hurry up!,elderly,70,5,offer,12,0
+Wal-Mart,50% off!,adults,36,3,discount,18,1
+Costco,Don't miss out!,teens,11,2,discount,23,0
+Amazon,Buy now!,parents,35,1,bestseller,6,1
+Sams,Buy now!,teens,11,2,bestseller,17,0
+Sams,Best in town!,parents,35,1,offer,0,0
+Costco,Buy now!,teens,11,2,exclusive,15,0
+Wal-Mart,Don't miss out!,parents,35,1,sale,10,1
+Wal-Mart,Best in town!,parents,35,1,sale,10,1
+Sams,Best in town!,elderly,70,5,discount,0,1
+Wal-Mart,Limited offer!,elderly,70,5,sale,13,1
+Amazon,50% off!,students,23,1,offer,6,0
+Amazon,Limited offer!,teens,11,2,offer,9,1
+Amazon,Buy now!,students,23,1,offer,10,0
+Costco,50% off!,students,23,1,sale,9,1
+Wal-Mart,Buy now!,students,23,1,bestseller,18,1
+Sams,Buy now!,teens,11,2,limited,8,0
+Costco,Best in town!,parents,35,1,exclusive,7,0
+Amazon,Don't miss out!,adults,36,3,limited,17,0
+Wal-Mart,Best in town!,parents,35,1,exclusive,10,1
+Sams,50% off!,elderly,70,5,bestseller,12,0
+Sams,Hurry up!,elderly,70,5,bestseller,18,0
+Sams,Buy now!,adults,36,3,exclusive,11,0
+Costco,Buy now!,teens,11,2,discount,7,1
+Wal-Mart,50% off!,elderly,70,5,discount,3,0
+Sams,Buy now!,teens,11,2,sale,1,0
+Sams,Best in town!,adults,36,3,exclusive,5,1
+Amazon,50% off!,students,23,1,limited,7,1
+Costco,Limited offer!,parents,35,1,sale,10,1
+Sams,Hurry up!,teens,11,2,sale,3,1
+Amazon,50% off!,students,23,1,sale,20,1
+Sams,50% off!,parents,35,1,limited,16,1
+Amazon,Best in town!,students,23,1,offer,16,1
+Wal-Mart,Don't miss out!,parents,35,1,offer,3,1
+Amazon,Don't miss out!,adults,36,3,sale,14,1
+Costco,Don't miss out!,elderly,70,5,sale,14,0
+Amazon,Buy now!,adults,36,3,sale,17,0
+Sams,Hurry up!,teens,11,2,limited,7,1
+Wal-Mart,Best in town!,teens,11,2,offer,4,0
+Sams,Hurry up!,students,23,1,sale,3,1
+Amazon,Limited offer!,teens,11,2,limited,23,0
+Amazon,Don't miss out!,teens,11,2,offer,14,1
+Costco,Limited offer!,students,23,1,limited,4,1
+Wal-Mart,50% off!,adults,36,3,limited,8,1
+Costco,Limited offer!,parents,35,1,discount,15,1
+Sams,50% off!,parents,35,1,sale,13,1
+Sams,Best in town!,adults,36,3,limited,23,0
+Sams,Buy now!,parents,35,1,offer,18,0
+Sams,Limited offer!,parents,35,1,limited,16,1
+Sams,Buy now!,teens,11,2,offer,4,1
+Wal-Mart,50% off!,teens,11,2,discount,22,0
+Wal-Mart,Hurry up!,teens,11,2,exclusive,1,0
+Amazon,Buy now!,students,23,1,exclusive,21,0
+Wal-Mart,Limited offer!,parents,35,1,exclusive,2,0
+Sams,Hurry up!,teens,11,2,discount,16,1
+Sams,Limited offer!,parents,35,1,offer,1,0
+Costco,Hurry up!,elderly,70,5,bestseller,23,0
+Amazon,Hurry up!,elderly,70,5,bestseller,0,0
+Amazon,Buy now!,students,23,1,offer,13,0
+Costco,Buy now!,parents,35,1,exclusive,4,1
+Costco,Hurry up!,elderly,70,5,sale,19,0
+Wal-Mart,Best in town!,adults,36,3,bestseller,22,1
+Amazon,50% off!,adults,36,3,sale,15,1
+Amazon,Best in town!,teens,11,2,exclusive,1,1
+Sams,Limited offer!,elderly,70,5,discount,15,1
+Wal-Mart,50% off!,students,23,1,discount,20,1
+Costco,50% off!,students,23,1,offer,10,0
+Wal-Mart,Buy now!,parents,35,1,discount,23,1
+Amazon,50% off!,parents,35,1,offer,3,1
+Amazon,Hurry up!,teens,11,2,exclusive,16,0
+Wal-Mart,Limited offer!,teens,11,2,exclusive,19,0
+Amazon,Don't miss out!,teens,11,2,exclusive,2,1
+Wal-Mart,Best in town!,teens,11,2,sale,10,1
+Amazon,Limited offer!,parents,35,1,discount,3,1
+Wal-Mart,Buy now!,adults,36,3,bestseller,7,0
+Wal-Mart,Buy now!,parents,35,1,exclusive,12,1
+Sams,Limited offer!,adults,36,3,bestseller,15,0
+Sams,Hurry up!,students,23,1,bestseller,21,0
+Wal-Mart,Hurry up!,parents,35,1,exclusive,13,1
+Wal-Mart,Buy now!,adults,36,3,offer,12,1
+Amazon,Best in town!,elderly,70,5,bestseller,12,0
+Sams,Hurry up!,adults,36,3,limited,3,1
+Sams,Best in town!,parents,35,1,sale,13,1
+Amazon,Limited offer!,students,23,1,sale,18,0
+Sams,Hurry up!,elderly,70,5,sale,2,0
+Wal-Mart,Don't miss out!,teens,11,2,offer,0,1
+Amazon,Hurry up!,elderly,70,5,sale,20,0
+Amazon,Hurry up!,students,23,1,sale,5,0
+Amazon,Best in town!,students,23,1,sale,15,0
+Costco,Limited offer!,students,23,1,discount,7,0
+Sams,Limited offer!,elderly,70,5,sale,1,1
+Amazon,Don't miss out!,students,23,1,limited,11,0
+Sams,50% off!,students,23,1,exclusive,0,0
+Wal-Mart,50% off!,adults,36,3,offer,18,1
+Costco,Don't miss out!,elderly,70,5,exclusive,13,1
+Wal-Mart,Don't miss out!,teens,11,2,exclusive,12,1
+Amazon,Hurry up!,teens,11,2,discount,13,0
+Amazon,Buy now!,teens,11,2,offer,6,0
+Amazon,Buy now!,teens,11,2,bestseller,20,1
+Amazon,Don't miss out!,elderly,70,5,discount,9,0
+Costco,Don't miss out!,adults,36,3,exclusive,8,0
+Amazon,Buy now!,adults,36,3,offer,11,1
+Wal-Mart,Buy now!,students,23,1,offer,14,1
+Amazon,Don't miss out!,teens,11,2,sale,9,1
+Amazon,Limited offer!,elderly,70,5,exclusive,15,0
+Sams,Best in town!,teens,11,2,offer,7,0
+Wal-Mart,Buy now!,parents,35,1,sale,21,1
+Wal-Mart,Best in town!,students,23,1,offer,9,0
+Costco,Hurry up!,parents,35,1,discount,17,0
+Wal-Mart,Hurry up!,students,23,1,offer,14,0
+Costco,Hurry up!,students,23,1,limited,8,1
+Sams,Hurry up!,teens,11,2,sale,16,1
+Wal-Mart,Buy now!,students,23,1,exclusive,18,0
+Costco,50% off!,teens,11,2,exclusive,8,0
+Sams,Buy now!,parents,35,1,discount,16,1
+Amazon,Best in town!,adults,36,3,sale,20,0
+Costco,50% off!,students,23,1,discount,6,0
+Amazon,Don't miss out!,adults,36,3,bestseller,21,0
+Amazon,Hurry up!,elderly,70,5,limited,4,0
+Sams,Don't miss out!,teens,11,2,sale,18,0
+Costco,Buy now!,parents,35,1,sale,5,0
+Amazon,Don't miss out!,parents,35,1,limited,20,1
+Amazon,Hurry up!,teens,11,2,offer,19,1
+Sams,Limited offer!,parents,35,1,exclusive,12,0
+Amazon,Best in town!,elderly,70,5,bestseller,5,1
+Wal-Mart,50% off!,students,23,1,bestseller,20,1
+Sams,Best in town!,teens,11,2,sale,14,1
+Wal-Mart,Limited offer!,teens,11,2,sale,10,1
+Amazon,Limited offer!,parents,35,1,offer,9,0
+Wal-Mart,50% off!,elderly,70,5,sale,6,1
+Wal-Mart,Hurry up!,students,23,1,exclusive,5,0
+Amazon,Buy now!,parents,35,1,bestseller,8,1
+Wal-Mart,50% off!,elderly,70,5,limited,6,1
+Sams,Hurry up!,parents,35,1,discount,7,0
+Sams,Best in town!,teens,11,2,bestseller,2,1
+Sams,Buy now!,students,23,1,discount,18,1
+Amazon,Buy now!,teens,11,2,offer,16,0
+Sams,50% off!,parents,35,1,limited,2,0
+Wal-Mart,50% off!,adults,36,3,bestseller,3,1
+Wal-Mart,Buy now!,parents,35,1,exclusive,5,1
+Amazon,Buy now!,teens,11,2,bestseller,20,0
+Wal-Mart,Limited offer!,parents,35,1,sale,23,0
+Wal-Mart,Hurry up!,parents,35,1,limited,19,0
+Wal-Mart,Buy now!,parents,35,1,sale,16,0
+Wal-Mart,Hurry up!,elderly,70,5,sale,12,0
+Amazon,Best in town!,elderly,70,5,discount,21,1
+Wal-Mart,50% off!,elderly,70,5,bestseller,11,0
+Amazon,Best in town!,students,23,1,offer,3,0
+Sams,Buy now!,students,23,1,discount,22,1
+Amazon,Don't miss out!,elderly,70,5,limited,17,0
+Amazon,Limited offer!,teens,11,2,offer,21,0
+Amazon,50% off!,adults,36,3,limited,6,1
+Costco,Limited offer!,students,23,1,bestseller,20,1
+Sams,Buy now!,adults,36,3,limited,10,0
+Amazon,Limited offer!,teens,11,2,offer,10,0
+Wal-Mart,Limited offer!,students,23,1,offer,8,0
+Wal-Mart,Hurry up!,teens,11,2,discount,13,0
+Sams,50% off!,parents,35,1,offer,18,0
+Costco,Don't miss out!,adults,36,3,discount,15,0
+Sams,Don't miss out!,elderly,70,5,discount,16,1
+Sams,Hurry up!,adults,36,3,bestseller,3,0
+Sams,Limited offer!,elderly,70,5,sale,0,0
+Wal-Mart,50% off!,parents,35,1,offer,9,0
+Amazon,Hurry up!,teens,11,2,exclusive,15,0
+Amazon,Hurry up!,teens,11,2,exclusive,13,0
+Wal-Mart,50% off!,students,23,1,offer,15,1
+Amazon,Hurry up!,adults,36,3,sale,0,1
+Wal-Mart,Hurry up!,students,23,1,exclusive,12,1
+Sams,50% off!,parents,35,1,bestseller,8,1
+Sams,Limited offer!,adults,36,3,limited,1,1
+Sams,50% off!,students,23,1,discount,19,1
+Costco,Best in town!,teens,11,2,discount,21,1
+Amazon,Hurry up!,parents,35,1,limited,22,0
+Sams,Hurry up!,students,23,1,discount,16,1
+Sams,Don't miss out!,elderly,70,5,discount,14,0
+Costco,50% off!,teens,11,2,offer,8,1
+Costco,Limited offer!,elderly,70,5,offer,16,0
+Costco,Buy now!,parents,35,1,exclusive,5,0
+Sams,50% off!,students,23,1,sale,11,1
+Wal-Mart,Best in town!,parents,35,1,offer,20,1
+Wal-Mart,Best in town!,teens,11,2,offer,6,1
+Sams,Limited offer!,parents,35,1,discount,14,0
+Amazon,Buy now!,teens,11,2,discount,15,0
+Sams,Don't miss out!,parents,35,1,offer,13,0
+Costco,Best in town!,elderly,70,5,sale,14,0
+Sams,50% off!,elderly,70,5,discount,12,1
+Wal-Mart,50% off!,teens,11,2,discount,16,1
+Sams,Limited offer!,parents,35,1,offer,19,0
+Sams,Limited offer!,teens,11,2,offer,23,0
+Sams,50% off!,adults,36,3,discount,11,1
+Sams,Don't miss out!,teens,11,2,offer,7,0
+Sams,Limited offer!,teens,11,2,limited,9,1
+Wal-Mart,Don't miss out!,parents,35,1,discount,16,0
+Wal-Mart,Hurry up!,teens,11,2,exclusive,15,1
+Amazon,Don't miss out!,parents,35,1,sale,2,1
+Amazon,Don't miss out!,parents,35,1,bestseller,5,0
+Wal-Mart,Buy now!,students,23,1,offer,0,1
+Wal-Mart,Best in town!,teens,11,2,limited,13,1
+Wal-Mart,Best in town!,adults,36,3,offer,1,1
+Amazon,Don't miss out!,elderly,70,5,bestseller,0,1
+Amazon,Limited offer!,parents,35,1,discount,21,1
+Wal-Mart,50% off!,parents,35,1,exclusive,11,0
+Amazon,50% off!,elderly,70,5,exclusive,14,1
+Amazon,Don't miss out!,adults,36,3,bestseller,14,0
+Wal-Mart,Limited offer!,elderly,70,5,limited,0,0
+Sams,Limited offer!,teens,11,2,bestseller,0,0
+Wal-Mart,Best in town!,elderly,70,5,offer,3,0
+Costco,50% off!,parents,35,1,bestseller,22,1
+Wal-Mart,Hurry up!,adults,36,3,exclusive,21,0
+Costco,Buy now!,adults,36,3,exclusive,22,0
+Wal-Mart,50% off!,parents,35,1,bestseller,3,0
+Sams,50% off!,teens,11,2,bestseller,0,0
+Sams,Don't miss out!,teens,11,2,discount,16,1
+Wal-Mart,Best in town!,elderly,70,5,offer,16,0
+Amazon,Limited offer!,elderly,70,5,limited,4,0
+Wal-Mart,Limited offer!,elderly,70,5,offer,1,0
+Amazon,Hurry up!,parents,35,1,bestseller,7,1
+Sams,Limited offer!,teens,11,2,exclusive,5,0
+Wal-Mart,Hurry up!,adults,36,3,bestseller,19,0
+Sams,Limited offer!,elderly,70,5,sale,5,1
+Costco,Limited offer!,students,23,1,exclusive,13,0
+Wal-Mart,Buy now!,adults,36,3,sale,8,1
+Sams,50% off!,adults,36,3,bestseller,5,1
+Amazon,Hurry up!,elderly,70,5,discount,22,0
+Amazon,Buy now!,students,23,1,discount,18,0
+Costco,Don't miss out!,elderly,70,5,discount,14,1
+Costco,Hurry up!,teens,11,2,discount,5,1
+Costco,Buy now!,teens,11,2,exclusive,16,0
+Sams,Hurry up!,parents,35,1,exclusive,18,0
+Amazon,Hurry up!,students,23,1,exclusive,16,1
+Costco,Buy now!,elderly,70,5,offer,17,1
+Wal-Mart,Buy now!,parents,35,1,exclusive,17,0
+Costco,Don't miss out!,teens,11,2,exclusive,8,1
+Amazon,50% off!,parents,35,1,offer,22,1
+Costco,Don't miss out!,students,23,1,bestseller,16,1
+Sams,Limited offer!,adults,36,3,bestseller,4,1
+Costco,Buy now!,adults,36,3,limited,12,1
+Costco,Limited offer!,elderly,70,5,exclusive,17,0
+Costco,50% off!,adults,36,3,exclusive,14,1
+Sams,Hurry up!,teens,11,2,offer,23,1
+Sams,50% off!,parents,35,1,exclusive,11,1
+Costco,Best in town!,elderly,70,5,offer,12,0
+Costco,50% off!,parents,35,1,exclusive,19,1
+Amazon,Buy now!,students,23,1,bestseller,0,1
+Costco,Best in town!,adults,36,3,sale,9,1
+Amazon,Don't miss out!,teens,11,2,discount,12,0
+Sams,Limited offer!,parents,35,1,bestseller,3,0
+Sams,Buy now!,parents,35,1,offer,9,0
+Sams,Buy now!,adults,36,3,sale,8,1
+Amazon,Don't miss out!,students,23,1,discount,11,1
+Sams,Buy now!,elderly,70,5,discount,13,1
+Costco,Buy now!,teens,11,2,bestseller,18,1
+Amazon,Best in town!,adults,36,3,limited,22,0
+Sams,Hurry up!,elderly,70,5,bestseller,15,0
+Amazon,50% off!,adults,36,3,discount,19,1
+Amazon,Buy now!,students,23,1,offer,12,0
+Amazon,Don't miss out!,elderly,70,5,exclusive,10,0
+Sams,Hurry up!,elderly,70,5,limited,5,0
+Wal-Mart,Don't miss out!,students,23,1,discount,22,0
+Sams,50% off!,parents,35,1,discount,11,0
+Amazon,Limited offer!,students,23,1,exclusive,1,0
+Amazon,Hurry up!,parents,35,1,exclusive,21,1
+Amazon,Buy now!,students,23,1,discount,4,1
+Wal-Mart,Buy now!,teens,11,2,discount,22,0
+Amazon,Don't miss out!,students,23,1,exclusive,14,0
+Wal-Mart,Best in town!,adults,36,3,bestseller,19,1
+Sams,Limited offer!,students,23,1,exclusive,0,1
+Wal-Mart,Limited offer!,parents,35,1,exclusive,20,0
+Sams,Don't miss out!,elderly,70,5,limited,15,1
+Amazon,Limited offer!,elderly,70,5,sale,23,1
+Costco,50% off!,adults,36,3,offer,10,1
+Sams,Hurry up!,adults,36,3,discount,23,0
+Amazon,Limited offer!,students,23,1,exclusive,19,0
+Sams,Don't miss out!,adults,36,3,discount,2,0
+Amazon,Best in town!,teens,11,2,exclusive,22,1
+Amazon,Don't miss out!,adults,36,3,discount,5,1
+Wal-Mart,Buy now!,students,23,1,bestseller,23,0
+Wal-Mart,50% off!,students,23,1,exclusive,22,1
+Sams,50% off!,students,23,1,limited,22,1
+Sams,Don't miss out!,parents,35,1,sale,7,1
+Amazon,Buy now!,teens,11,2,sale,2,1
+Sams,Limited offer!,adults,36,3,discount,12,0
+Costco,50% off!,students,23,1,sale,12,0
+Sams,Limited offer!,parents,35,1,limited,7,0
+Amazon,Don't miss out!,parents,35,1,limited,16,1
+Sams,Limited offer!,teens,11,2,limited,23,0
+Costco,Hurry up!,adults,36,3,limited,1,0
+Sams,Limited offer!,students,23,1,sale,6,1
+Wal-Mart,Hurry up!,adults,36,3,exclusive,1,1
+Amazon,Buy now!,elderly,70,5,exclusive,3,1
+Sams,Don't miss out!,teens,11,2,discount,8,1
+Costco,Buy now!,students,23,1,offer,18,0
+Costco,Hurry up!,adults,36,3,exclusive,14,1
+Wal-Mart,Hurry up!,elderly,70,5,sale,0,0
+Costco,Buy now!,teens,11,2,offer,10,0
+Wal-Mart,Limited offer!,adults,36,3,exclusive,0,1
+Costco,Limited offer!,adults,36,3,limited,3,0
+Wal-Mart,50% off!,parents,35,1,discount,17,0
+Sams,Don't miss out!,parents,35,1,discount,22,0
+Wal-Mart,50% off!,elderly,70,5,discount,20,1
+Costco,Limited offer!,parents,35,1,sale,13,0
+Wal-Mart,Best in town!,elderly,70,5,bestseller,20,1
+Wal-Mart,Hurry up!,parents,35,1,limited,15,0
+Amazon,Hurry up!,parents,35,1,offer,17,0
+Sams,Best in town!,elderly,70,5,bestseller,12,1
+Costco,Limited offer!,students,23,1,sale,4,0
+Sams,Best in town!,parents,35,1,limited,14,1
+Wal-Mart,Don't miss out!,adults,36,3,offer,20,1
+Costco,Limited offer!,teens,11,2,exclusive,17,1
+Amazon,Don't miss out!,parents,35,1,discount,3,0
+Costco,Don't miss out!,students,23,1,exclusive,0,1
+Costco,Limited offer!,elderly,70,5,limited,5,0
+Wal-Mart,50% off!,elderly,70,5,limited,9,1
+Wal-Mart,Best in town!,teens,11,2,limited,20,0
+Costco,Best in town!,teens,11,2,exclusive,13,0
+Costco,Best in town!,elderly,70,5,sale,17,0
+Costco,Hurry up!,elderly,70,5,offer,12,0
+Amazon,Buy now!,teens,11,2,bestseller,6,0
+Amazon,Don't miss out!,parents,35,1,offer,15,1
+Costco,50% off!,adults,36,3,sale,3,1
+Amazon,Hurry up!,teens,11,2,exclusive,9,1
+Sams,Limited offer!,adults,36,3,exclusive,6,0
+Amazon,Buy now!,parents,35,1,bestseller,10,1
+Costco,Hurry up!,teens,11,2,limited,6,0
+Costco,Best in town!,parents,35,1,discount,19,1
+Costco,Don't miss out!,adults,36,3,limited,7,0
+Sams,Buy now!,adults,36,3,sale,21,0
+Amazon,50% off!,teens,11,2,offer,8,0
+Costco,Hurry up!,adults,36,3,bestseller,16,1
+Sams,Don't miss out!,adults,36,3,discount,16,1
+Amazon,Buy now!,parents,35,1,bestseller,3,1
+Amazon,50% off!,students,23,1,discount,2,0
+Amazon,Buy now!,elderly,70,5,offer,23,0
+Sams,Buy now!,elderly,70,5,limited,22,1
+Wal-Mart,Don't miss out!,elderly,70,5,limited,3,0
+Costco,Hurry up!,elderly,70,5,limited,16,0
+Costco,Hurry up!,elderly,70,5,sale,20,0
+Amazon,Buy now!,students,23,1,discount,6,0
+Wal-Mart,Limited offer!,parents,35,1,sale,3,1
+Costco,Best in town!,parents,35,1,limited,14,0
+Wal-Mart,Limited offer!,parents,35,1,discount,10,0
+Wal-Mart,Hurry up!,elderly,70,5,discount,0,0
+Sams,Limited offer!,elderly,70,5,offer,0,0
+Amazon,Don't miss out!,students,23,1,limited,8,1
+Wal-Mart,50% off!,elderly,70,5,bestseller,17,0
+Amazon,Best in town!,adults,36,3,sale,11,1
+Amazon,Best in town!,parents,35,1,exclusive,18,1
+Costco,50% off!,elderly,70,5,offer,13,1
+Wal-Mart,Best in town!,elderly,70,5,limited,7,0
+Costco,Best in town!,teens,11,2,exclusive,20,1
+Costco,Limited offer!,teens,11,2,sale,8,1
+Wal-Mart,50% off!,teens,11,2,limited,23,0
+Amazon,Best in town!,adults,36,3,bestseller,13,1
+Amazon,Best in town!,elderly,70,5,bestseller,9,0
+Wal-Mart,Limited offer!,adults,36,3,offer,23,0
+Sams,Don't miss out!,teens,11,2,bestseller,5,0
+Costco,Buy now!,students,23,1,limited,2,0
+Wal-Mart,Limited offer!,elderly,70,5,discount,19,0
+Sams,Best in town!,teens,11,2,bestseller,6,1
+Amazon,Buy now!,adults,36,3,exclusive,6,1
+Wal-Mart,Best in town!,teens,11,2,sale,23,1
+Amazon,50% off!,elderly,70,5,offer,9,1
+Wal-Mart,Limited offer!,students,23,1,discount,9,0
+Costco,Limited offer!,parents,35,1,sale,1,0
+Costco,50% off!,elderly,70,5,bestseller,11,0
+Sams,Limited offer!,teens,11,2,discount,3,1
+Amazon,Best in town!,adults,36,3,discount,16,0
+Costco,Hurry up!,teens,11,2,bestseller,16,1
+Costco,Buy now!,adults,36,3,sale,7,1
+Amazon,Best in town!,students,23,1,limited,2,0
+Costco,Hurry up!,adults,36,3,offer,14,0
+Sams,Limited offer!,elderly,70,5,discount,23,1
+Amazon,50% off!,teens,11,2,offer,3,0
+Costco,50% off!,teens,11,2,limited,11,0
+Amazon,Limited offer!,adults,36,3,bestseller,7,0
+Wal-Mart,Best in town!,elderly,70,5,bestseller,10,1
+Costco,Don't miss out!,parents,35,1,offer,13,0
+Sams,Don't miss out!,elderly,70,5,discount,9,0
+Amazon,Hurry up!,parents,35,1,offer,10,0
+Sams,50% off!,parents,35,1,discount,18,1
+Wal-Mart,Limited offer!,adults,36,3,exclusive,3,1
+Sams,Limited offer!,parents,35,1,exclusive,15,1
+Wal-Mart,Best in town!,parents,35,1,limited,20,0
+Costco,Don't miss out!,teens,11,2,discount,11,1
+Wal-Mart,Buy now!,adults,36,3,discount,17,0
+Costco,Buy now!,elderly,70,5,bestseller,5,0
+Costco,Hurry up!,students,23,1,sale,1,0
+Wal-Mart,Buy now!,students,23,1,bestseller,5,0
+Amazon,Buy now!,adults,36,3,sale,8,1
+Wal-Mart,50% off!,students,23,1,sale,10,1
+Costco,Limited offer!,teens,11,2,discount,13,0
+Amazon,Don't miss out!,parents,35,1,bestseller,6,1
+Costco,Don't miss out!,parents,35,1,discount,1,0
+Wal-Mart,Limited offer!,elderly,70,5,offer,17,0
+Wal-Mart,50% off!,elderly,70,5,discount,1,1
+Wal-Mart,Limited offer!,teens,11,2,sale,0,0
+Costco,Best in town!,students,23,1,limited,17,0
+Costco,Hurry up!,adults,36,3,sale,22,1
+Amazon,50% off!,teens,11,2,offer,14,0
+Costco,Don't miss out!,teens,11,2,exclusive,20,0
+Wal-Mart,Best in town!,adults,36,3,bestseller,17,1
+Sams,Best in town!,adults,36,3,bestseller,23,0
+Sams,Best in town!,adults,36,3,discount,7,1
+Wal-Mart,Limited offer!,students,23,1,exclusive,11,1
+Wal-Mart,Hurry up!,elderly,70,5,bestseller,20,0
+Amazon,Don't miss out!,students,23,1,exclusive,9,0
+Costco,Don't miss out!,parents,35,1,bestseller,18,1
+Costco,Best in town!,adults,36,3,sale,19,0
+Amazon,Don't miss out!,adults,36,3,limited,11,1
+Amazon,Buy now!,elderly,70,5,discount,16,0
+Sams,Limited offer!,parents,35,1,limited,13,0
+Amazon,Buy now!,students,23,1,bestseller,12,0
+Wal-Mart,Hurry up!,students,23,1,limited,15,1
+Amazon,Best in town!,parents,35,1,sale,5,1
+Amazon,50% off!,elderly,70,5,offer,20,0
+Amazon,Hurry up!,teens,11,2,discount,4,0
+Sams,Hurry up!,students,23,1,bestseller,18,0
+Sams,50% off!,elderly,70,5,discount,17,0
+Wal-Mart,Buy now!,elderly,70,5,limited,11,0
+Sams,Don't miss out!,adults,36,3,sale,11,1
+Wal-Mart,Hurry up!,adults,36,3,bestseller,18,1
+Costco,Buy now!,students,23,1,sale,19,0
+Amazon,50% off!,adults,36,3,sale,8,1
+Amazon,50% off!,elderly,70,5,bestseller,11,0
+Sams,Hurry up!,elderly,70,5,exclusive,1,0
+Sams,Best in town!,elderly,70,5,bestseller,11,1
+Amazon,Best in town!,students,23,1,bestseller,1,0
+Wal-Mart,Hurry up!,parents,35,1,limited,19,0
+Sams,Limited offer!,parents,35,1,bestseller,1,0
+Amazon,Hurry up!,students,23,1,limited,20,1
+Amazon,Don't miss out!,teens,11,2,offer,7,0
+Wal-Mart,Best in town!,teens,11,2,discount,9,0
+Amazon,Best in town!,teens,11,2,offer,10,1
+Costco,Don't miss out!,elderly,70,5,offer,23,1
+Wal-Mart,Hurry up!,parents,35,1,bestseller,21,0
+Sams,Hurry up!,students,23,1,limited,15,1
+Wal-Mart,Don't miss out!,adults,36,3,exclusive,23,1
+Costco,Buy now!,elderly,70,5,offer,14,1
+Amazon,Don't miss out!,students,23,1,limited,19,0
+Sams,Limited offer!,teens,11,2,discount,6,0
+Costco,Best in town!,parents,35,1,bestseller,20,1
+Amazon,50% off!,teens,11,2,sale,17,1
+Amazon,Limited offer!,adults,36,3,exclusive,19,1
+Wal-Mart,Hurry up!,elderly,70,5,offer,9,0
+Wal-Mart,Buy now!,elderly,70,5,offer,7,0
+Costco,Hurry up!,elderly,70,5,offer,22,0
+Sams,50% off!,adults,36,3,limited,18,1
+Wal-Mart,Limited offer!,adults,36,3,offer,6,1
+Wal-Mart,Buy now!,students,23,1,offer,13,0
+Costco,Don't miss out!,adults,36,3,offer,5,1
+Amazon,Best in town!,teens,11,2,bestseller,8,1
+Costco,50% off!,teens,11,2,sale,8,1
+Wal-Mart,Limited offer!,parents,35,1,exclusive,18,1
+Sams,Limited offer!,adults,36,3,exclusive,18,0
+Wal-Mart,Hurry up!,adults,36,3,offer,0,1
+Sams,Best in town!,students,23,1,offer,18,0
+Sams,Don't miss out!,elderly,70,5,bestseller,20,1
+Sams,50% off!,parents,35,1,exclusive,20,1
+Wal-Mart,Don't miss out!,adults,36,3,limited,17,1
+Sams,Best in town!,elderly,70,5,bestseller,4,1
+Amazon,Hurry up!,students,23,1,bestseller,14,0
+Sams,Don't miss out!,teens,11,2,sale,6,1
+Costco,Buy now!,teens,11,2,limited,9,1
+Costco,Limited offer!,students,23,1,offer,11,1
+Costco,Hurry up!,students,23,1,bestseller,15,0
+Wal-Mart,Hurry up!,adults,36,3,limited,14,0
+Costco,Limited offer!,elderly,70,5,limited,15,0
+Costco,Best in town!,adults,36,3,exclusive,8,1
+Wal-Mart,Limited offer!,adults,36,3,sale,20,1
+Sams,50% off!,elderly,70,5,limited,8,1
+Costco,Don't miss out!,elderly,70,5,exclusive,11,0
+Amazon,Don't miss out!,parents,35,1,limited,11,0
+Costco,Don't miss out!,teens,11,2,offer,15,0
+Costco,Buy now!,parents,35,1,offer,1,0
+Wal-Mart,Limited offer!,students,23,1,exclusive,0,0
+Sams,Don't miss out!,students,23,1,discount,8,0
+Amazon,Don't miss out!,adults,36,3,offer,0,1
+Sams,Buy now!,adults,36,3,bestseller,21,0
+Costco,Best in town!,teens,11,2,sale,7,1
+Sams,Hurry up!,parents,35,1,limited,21,1
+Amazon,Best in town!,teens,11,2,sale,6,1
+Sams,Buy now!,adults,36,3,bestseller,1,1
+Sams,Don't miss out!,adults,36,3,bestseller,16,0
+Wal-Mart,Don't miss out!,students,23,1,limited,17,0
+Costco,Limited offer!,teens,11,2,limited,16,1
+Sams,Hurry up!,parents,35,1,limited,12,1
+Wal-Mart,Limited offer!,adults,36,3,sale,18,0
+Amazon,50% off!,students,23,1,bestseller,3,0
+Sams,Buy now!,parents,35,1,exclusive,13,1
+Costco,Buy now!,teens,11,2,offer,1,0
+Amazon,Limited offer!,elderly,70,5,offer,15,1
+Amazon,Hurry up!,elderly,70,5,exclusive,18,0
+Amazon,Don't miss out!,parents,35,1,exclusive,12,0
+Costco,Best in town!,parents,35,1,limited,12,0
+Costco,Limited offer!,parents,35,1,exclusive,23,1
+Costco,Don't miss out!,teens,11,2,limited,14,1
+Costco,Buy now!,students,23,1,limited,6,1
+Wal-Mart,50% off!,adults,36,3,limited,23,1
+Amazon,Don't miss out!,elderly,70,5,limited,23,0
+Amazon,50% off!,adults,36,3,limited,12,1
+Wal-Mart,Don't miss out!,teens,11,2,sale,23,1
+Amazon,Best in town!,students,23,1,bestseller,2,1
+Wal-Mart,Hurry up!,elderly,70,5,offer,18,0
+Wal-Mart,Hurry up!,elderly,70,5,sale,17,0
+Costco,Don't miss out!,parents,35,1,discount,15,1
+Sams,50% off!,adults,36,3,discount,17,1
+Sams,Limited offer!,elderly,70,5,exclusive,8,0
+Amazon,Limited offer!,elderly,70,5,offer,23,1
+Sams,Limited offer!,parents,35,1,limited,9,1
+Wal-Mart,Best in town!,adults,36,3,limited,3,0
+Sams,Best in town!,students,23,1,discount,5,0
+Wal-Mart,Hurry up!,elderly,70,5,discount,14,0
+Costco,Buy now!,students,23,1,sale,16,0
+Costco,Best in town!,adults,36,3,exclusive,8,0
+Wal-Mart,Limited offer!,adults,36,3,discount,19,1
+Amazon,Hurry up!,adults,36,3,exclusive,0,0
+Sams,Buy now!,parents,35,1,offer,11,0
+Wal-Mart,Don't miss out!,elderly,70,5,sale,23,1
+Wal-Mart,Hurry up!,adults,36,3,bestseller,1,0
+Sams,Don't miss out!,elderly,70,5,discount,9,0
+Amazon,Buy now!,adults,36,3,exclusive,17,1
+Sams,Hurry up!,elderly,70,5,sale,12,0
+Amazon,Best in town!,elderly,70,5,exclusive,4,1
+Wal-Mart,Don't miss out!,parents,35,1,bestseller,10,1
+Sams,50% off!,parents,35,1,exclusive,7,1
+Amazon,Buy now!,teens,11,2,bestseller,4,0
+Costco,50% off!,students,23,1,bestseller,20,1
+Amazon,50% off!,parents,35,1,limited,18,1
+Costco,Best in town!,students,23,1,sale,10,1
+Sams,50% off!,teens,11,2,bestseller,19,1
+Sams,Hurry up!,adults,36,3,bestseller,7,1
+Sams,50% off!,adults,36,3,limited,15,1
+Costco,Don't miss out!,students,23,1,discount,21,1
+Sams,Don't miss out!,adults,36,3,discount,4,0
+Amazon,Best in town!,elderly,70,5,exclusive,16,1
+Costco,Limited offer!,teens,11,2,sale,7,1
+Amazon,Best in town!,adults,36,3,sale,0,0
+Sams,Limited offer!,parents,35,1,offer,11,1
+Sams,Buy now!,adults,36,3,limited,8,1
+Wal-Mart,Hurry up!,students,23,1,discount,18,1
+Amazon,Best in town!,teens,11,2,offer,4,0
+Sams,50% off!,students,23,1,offer,21,0
+Amazon,Best in town!,adults,36,3,offer,13,0
+Amazon,Buy now!,teens,11,2,sale,16,0
+Amazon,Best in town!,adults,36,3,discount,16,0
+Amazon,Best in town!,teens,11,2,discount,20,1
+Costco,Buy now!,students,23,1,limited,1,0
+Costco,Don't miss out!,adults,36,3,limited,11,1
+Costco,Don't miss out!,teens,11,2,limited,13,0
+Wal-Mart,Best in town!,teens,11,2,bestseller,14,1
+Wal-Mart,Limited offer!,students,23,1,offer,12,0
+Amazon,50% off!,parents,35,1,exclusive,4,1
+Amazon,Best in town!,parents,35,1,sale,21,1
+Amazon,Limited offer!,elderly,70,5,offer,15,1
+Sams,Don't miss out!,students,23,1,exclusive,23,1
+Sams,50% off!,students,23,1,discount,7,0
+Wal-Mart,Don't miss out!,teens,11,2,limited,12,0
+Wal-Mart,50% off!,teens,11,2,limited,13,1
+Sams,50% off!,students,23,1,sale,17,1
+Costco,50% off!,parents,35,1,discount,16,0
+Costco,Limited offer!,students,23,1,offer,19,1
+Wal-Mart,Buy now!,teens,11,2,discount,11,1
+Sams,Best in town!,teens,11,2,discount,12,1
+Amazon,50% off!,students,23,1,limited,1,0
+Amazon,Buy now!,adults,36,3,sale,19,0
+Wal-Mart,50% off!,parents,35,1,offer,3,0
+Amazon,Buy now!,adults,36,3,discount,21,0
+Sams,Best in town!,teens,11,2,limited,1,0
+Costco,Hurry up!,teens,11,2,exclusive,15,0
+Sams,50% off!,elderly,70,5,offer,19,0
+Wal-Mart,Best in town!,teens,11,2,exclusive,13,1
+Wal-Mart,Don't miss out!,students,23,1,offer,15,0
+Costco,Best in town!,elderly,70,5,discount,17,0
+Costco,Buy now!,elderly,70,5,discount,5,1
+Wal-Mart,Buy now!,parents,35,1,bestseller,19,0
+Sams,Best in town!,students,23,1,sale,2,1
+Wal-Mart,Don't miss out!,parents,35,1,discount,7,0
+Costco,Hurry up!,students,23,1,limited,14,1
+Costco,Don't miss out!,students,23,1,exclusive,17,0
+Wal-Mart,Best in town!,adults,36,3,offer,6,1
+Costco,Best in town!,elderly,70,5,bestseller,22,1
+Wal-Mart,Don't miss out!,teens,11,2,discount,5,0
+Costco,Limited offer!,teens,11,2,limited,20,0
+Amazon,Hurry up!,parents,35,1,limited,6,0
+Amazon,Buy now!,students,23,1,limited,10,1
+Sams,Buy now!,parents,35,1,bestseller,5,1
+Amazon,50% off!,adults,36,3,exclusive,6,1
+Costco,Hurry up!,adults,36,3,bestseller,4,0
+Costco,Don't miss out!,elderly,70,5,sale,4,0
+Wal-Mart,Limited offer!,elderly,70,5,limited,7,0
+Sams,50% off!,parents,35,1,limited,12,0
+Amazon,50% off!,parents,35,1,discount,3,1
+Costco,Hurry up!,parents,35,1,discount,15,0
+Sams,Buy now!,adults,36,3,exclusive,16,0
+Amazon,Best in town!,adults,36,3,sale,18,1
+Sams,Buy now!,teens,11,2,discount,20,0
+Costco,Best in town!,elderly,70,5,offer,17,1
+Sams,Buy now!,adults,36,3,offer,2,0
+Wal-Mart,Hurry up!,parents,35,1,sale,9,1
+Costco,Limited offer!,students,23,1,offer,17,1
+Wal-Mart,Hurry up!,teens,11,2,discount,1,0
+Wal-Mart,Don't miss out!,students,23,1,sale,18,1
+Wal-Mart,Hurry up!,elderly,70,5,exclusive,5,0
+Wal-Mart,Buy now!,students,23,1,bestseller,19,0
+Sams,50% off!,parents,35,1,limited,11,1
+Costco,Don't miss out!,students,23,1,bestseller,0,1
+Wal-Mart,Don't miss out!,adults,36,3,limited,19,0
+Costco,Limited offer!,students,23,1,sale,8,1
+Sams,Buy now!,students,23,1,bestseller,12,0
+Amazon,Buy now!,teens,11,2,offer,14,1
+Sams,Best in town!,parents,35,1,bestseller,8,1
+Sams,Best in town!,elderly,70,5,offer,23,1
+Amazon,Don't miss out!,students,23,1,offer,15,1
+Sams,Buy now!,students,23,1,sale,6,1
+Sams,50% off!,students,23,1,discount,6,0
+Sams,Don't miss out!,parents,35,1,exclusive,17,1
+Costco,Limited offer!,parents,35,1,bestseller,17,0
+Costco,Don't miss out!,students,23,1,exclusive,10,0
+Wal-Mart,Buy now!,students,23,1,sale,9,1

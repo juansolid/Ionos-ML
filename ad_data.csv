@@ -1,0 +1,1001 @@
+copy,audience,age_of_audicence,keywords,time_of_day,clicked
+Don't miss out!,teens,10,offer,3,0
+Hurry up!,adults,29,bestseller,2,0
+Hurry up!,parents,31,bestseller,2,0
+Best in town!,teens,10,discount,2,0
+Don't miss out!,students,17,discount,2,0
+Hurry up!,teens,10,offer,3,1
+Best in town!,teens,10,exclusive,2,0
+Best in town!,elderly,66,limited,1,1
+Buy now!,students,17,exclusive,1,1
+50% off!,students,17,offer,2,1
+50% off!,adults,29,exclusive,2,0
+Hurry up!,parents,31,offer,3,0
+Hurry up!,elderly,66,limited,1,0
+Don't miss out!,elderly,66,limited,0,0
+Best in town!,elderly,66,exclusive,1,1
+50% off!,parents,31,bestseller,1,1
+Don't miss out!,adults,29,sale,1,1
+50% off!,parents,31,limited,0,1
+Limited offer!,students,17,discount,1,0
+Hurry up!,adults,29,bestseller,2,1
+Best in town!,students,17,sale,0,1
+Best in town!,adults,29,sale,2,0
+Hurry up!,students,17,limited,2,0
+Buy now!,teens,10,limited,3,1
+Buy now!,teens,10,sale,2,0
+Buy now!,parents,31,exclusive,1,1
+Best in town!,students,17,offer,2,0
+Limited offer!,parents,31,limited,1,0
+50% off!,parents,31,offer,1,0
+50% off!,elderly,66,limited,1,0
+50% off!,teens,10,sale,0,1
+Don't miss out!,students,17,offer,3,0
+Limited offer!,adults,29,offer,1,1
+Hurry up!,parents,31,sale,1,1
+Hurry up!,parents,31,sale,1,1
+50% off!,parents,31,sale,1,1
+Limited offer!,students,17,bestseller,3,0
+Limited offer!,teens,10,limited,3,1
+Hurry up!,elderly,66,bestseller,2,0
+Hurry up!,elderly,66,offer,0,0
+Best in town!,teens,10,discount,0,0
+Limited offer!,parents,31,sale,3,0
+Best in town!,adults,29,bestseller,1,1
+50% off!,teens,10,limited,3,1
+Limited offer!,adults,29,sale,2,1
+50% off!,parents,31,discount,2,1
+Don't miss out!,parents,31,discount,0,0
+Don't miss out!,elderly,66,limited,2,0
+50% off!,teens,10,discount,2,0
+Buy now!,elderly,66,exclusive,1,1
+Best in town!,adults,29,bestseller,1,0
+Best in town!,students,17,bestseller,0,1
+50% off!,adults,29,exclusive,1,0
+Buy now!,parents,31,discount,0,0
+Don't miss out!,teens,10,exclusive,3,1
+Don't miss out!,adults,29,discount,0,0
+Best in town!,elderly,66,sale,2,0
+Hurry up!,elderly,66,limited,1,0
+Don't miss out!,adults,29,sale,0,0
+Limited offer!,students,17,offer,3,1
+Buy now!,elderly,66,sale,2,0
+Buy now!,adults,29,discount,1,1
+50% off!,adults,29,bestseller,3,0
+50% off!,teens,10,offer,2,0
+Don't miss out!,teens,10,offer,1,1
+Don't miss out!,students,17,offer,2,1
+Buy now!,parents,31,sale,0,1
+Best in town!,elderly,66,discount,1,0
+Best in town!,elderly,66,offer,2,1
+Don't miss out!,adults,29,offer,3,1
+50% off!,parents,31,exclusive,0,0
+Don't miss out!,parents,31,discount,2,0
+Best in town!,parents,31,limited,0,1
+Hurry up!,adults,29,bestseller,3,1
+Buy now!,adults,29,bestseller,1,1
+50% off!,teens,10,bestseller,2,0
+Don't miss out!,adults,29,discount,1,0
+Best in town!,parents,31,bestseller,3,1
+Buy now!,students,17,exclusive,3,1
+Hurry up!,students,17,offer,3,1
+Best in town!,elderly,66,limited,1,0
+50% off!,parents,31,offer,2,0
+50% off!,parents,31,discount,1,0
+Hurry up!,adults,29,exclusive,0,1
+Don't miss out!,elderly,66,exclusive,0,0
+Limited offer!,adults,29,offer,1,0
+Don't miss out!,adults,29,sale,2,1
+Don't miss out!,adults,29,sale,2,0
+Hurry up!,students,17,discount,1,0
+Best in town!,students,17,bestseller,3,0
+Buy now!,students,17,limited,3,0
+Don't miss out!,adults,29,sale,0,1
+Don't miss out!,students,17,bestseller,1,0
+Buy now!,adults,29,exclusive,0,0
+50% off!,elderly,66,limited,2,0
+Buy now!,teens,10,sale,0,0
+Limited offer!,adults,29,limited,1,1
+Limited offer!,adults,29,bestseller,3,0
+Buy now!,adults,29,offer,1,1
+Don't miss out!,adults,29,limited,0,1
+Hurry up!,students,17,bestseller,1,0
+Hurry up!,teens,10,sale,3,0
+Don't miss out!,elderly,66,discount,0,1
+Buy now!,students,17,bestseller,2,1
+Limited offer!,teens,10,offer,1,0
+Best in town!,parents,31,bestseller,1,1
+Hurry up!,parents,31,limited,0,1
+50% off!,elderly,66,sale,0,0
+Buy now!,teens,10,sale,2,0
+Best in town!,parents,31,discount,0,0
+Hurry up!,elderly,66,exclusive,2,0
+Hurry up!,students,17,bestseller,2,0
+Buy now!,elderly,66,discount,2,0
+Limited offer!,teens,10,exclusive,2,1
+Limited offer!,students,17,sale,0,0
+Hurry up!,students,17,sale,1,1
+Hurry up!,elderly,66,bestseller,1,0
+Hurry up!,elderly,66,limited,3,0
+Buy now!,students,17,sale,1,1
+Don't miss out!,elderly,66,bestseller,1,0
+Best in town!,adults,29,offer,0,1
+50% off!,teens,10,sale,3,0
+Best in town!,elderly,66,discount,0,0
+Limited offer!,students,17,exclusive,2,1
+Don't miss out!,teens,10,discount,1,1
+Best in town!,adults,29,discount,3,1
+Best in town!,teens,10,bestseller,0,1
+Hurry up!,elderly,66,exclusive,1,0
+50% off!,elderly,66,discount,3,1
+Limited offer!,students,17,bestseller,3,1
+Hurry up!,students,17,exclusive,2,1
+Hurry up!,adults,29,limited,1,0
+Limited offer!,elderly,66,discount,3,0
+Buy now!,parents,31,discount,0,0
+50% off!,parents,31,sale,3,1
+50% off!,students,17,bestseller,1,0
+Best in town!,parents,31,sale,0,1
+Hurry up!,adults,29,bestseller,0,0
+Hurry up!,students,17,exclusive,0,1
+Buy now!,parents,31,limited,3,0
+50% off!,students,17,limited,0,0
+Limited offer!,teens,10,limited,2,0
+Limited offer!,parents,31,bestseller,2,1
+50% off!,adults,29,bestseller,0,1
+Buy now!,parents,31,bestseller,2,1
+Best in town!,elderly,66,sale,1,1
+Buy now!,elderly,66,sale,1,1
+Hurry up!,students,17,limited,0,0
+50% off!,students,17,bestseller,2,1
+Best in town!,teens,10,exclusive,2,0
+Buy now!,adults,29,offer,3,1
+Hurry up!,adults,29,exclusive,1,1
+Hurry up!,adults,29,sale,2,1
+Best in town!,teens,10,bestseller,1,1
+Buy now!,adults,29,limited,3,0
+Hurry up!,students,17,sale,1,0
+50% off!,students,17,limited,1,1
+Hurry up!,parents,31,limited,2,0
+Best in town!,elderly,66,offer,1,1
+50% off!,elderly,66,exclusive,2,1
+Limited offer!,teens,10,bestseller,1,1
+Best in town!,elderly,66,bestseller,1,0
+Best in town!,elderly,66,limited,0,1
+Don't miss out!,parents,31,sale,0,1
+Don't miss out!,parents,31,offer,0,0
+Don't miss out!,elderly,66,offer,2,0
+Hurry up!,elderly,66,discount,1,0
+Best in town!,students,17,exclusive,1,0
+Best in town!,elderly,66,bestseller,1,1
+Buy now!,students,17,exclusive,3,0
+Don't miss out!,students,17,offer,2,0
+Hurry up!,elderly,66,exclusive,1,0
+Best in town!,students,17,sale,3,1
+Hurry up!,elderly,66,offer,1,0
+Hurry up!,parents,31,sale,2,0
+Don't miss out!,teens,10,offer,2,0
+Buy now!,teens,10,limited,0,0
+Buy now!,elderly,66,offer,3,0
+50% off!,adults,29,bestseller,1,0
+Hurry up!,students,17,bestseller,2,1
+50% off!,parents,31,bestseller,1,0
+Hurry up!,elderly,66,exclusive,0,0
+Don't miss out!,adults,29,discount,1,0
+Don't miss out!,students,17,discount,2,0
+Buy now!,adults,29,bestseller,3,0
+Hurry up!,teens,10,offer,0,1
+50% off!,parents,31,discount,2,1
+Best in town!,adults,29,offer,0,0
+Buy now!,parents,31,offer,0,1
+Best in town!,teens,10,discount,2,1
+50% off!,parents,31,limited,1,0
+Hurry up!,teens,10,offer,3,0
+50% off!,students,17,exclusive,3,1
+Don't miss out!,students,17,sale,1,1
+50% off!,parents,31,sale,1,1
+Limited offer!,adults,29,limited,1,1
+Buy now!,students,17,discount,0,0
+Hurry up!,parents,31,bestseller,3,1
+Don't miss out!,adults,29,offer,2,0
+Limited offer!,parents,31,limited,3,0
+Limited offer!,parents,31,offer,1,1
+Buy now!,elderly,66,limited,1,1
+Hurry up!,elderly,66,bestseller,0,0
+Hurry up!,elderly,66,sale,1,1
+Limited offer!,parents,31,sale,2,1
+Don't miss out!,adults,29,bestseller,2,0
+Don't miss out!,adults,29,exclusive,2,0
+Don't miss out!,teens,10,limited,0,0
+Hurry up!,elderly,66,limited,2,0
+Don't miss out!,elderly,66,exclusive,1,1
+Don't miss out!,students,17,bestseller,0,1
+50% off!,students,17,bestseller,1,0
+Hurry up!,elderly,66,sale,2,0
+50% off!,adults,29,offer,3,1
+Best in town!,adults,29,exclusive,1,0
+Buy now!,adults,29,bestseller,0,1
+Buy now!,adults,29,bestseller,0,0
+Best in town!,parents,31,limited,0,0
+50% off!,teens,10,limited,1,0
+Best in town!,elderly,66,exclusive,3,1
+Don't miss out!,teens,10,exclusive,3,0
+Limited offer!,adults,29,limited,0,1
+50% off!,parents,31,bestseller,2,0
+Hurry up!,adults,29,bestseller,2,0
+Best in town!,teens,10,discount,2,0
+Best in town!,teens,10,bestseller,3,0
+Hurry up!,elderly,66,bestseller,3,0
+Best in town!,students,17,sale,1,1
+Limited offer!,students,17,limited,2,1
+Best in town!,parents,31,bestseller,3,1
+Buy now!,elderly,66,discount,1,0
+Don't miss out!,teens,10,limited,0,0
+Limited offer!,parents,31,limited,1,0
+50% off!,parents,31,exclusive,3,0
+Don't miss out!,parents,31,offer,0,0
+Hurry up!,teens,10,exclusive,1,1
+50% off!,parents,31,bestseller,0,0
+Hurry up!,adults,29,exclusive,0,1
+Hurry up!,adults,29,sale,1,0
+Limited offer!,parents,31,bestseller,3,1
+Don't miss out!,teens,10,sale,0,0
+Hurry up!,teens,10,offer,0,1
+Best in town!,elderly,66,exclusive,1,0
+Don't miss out!,adults,29,bestseller,0,1
+50% off!,elderly,66,bestseller,1,0
+Best in town!,teens,10,exclusive,1,0
+50% off!,elderly,66,exclusive,3,0
+Don't miss out!,elderly,66,discount,0,1
+Don't miss out!,parents,31,limited,1,0
+Don't miss out!,students,17,limited,2,1
+Hurry up!,teens,10,discount,1,1
+Best in town!,adults,29,discount,2,1
+Best in town!,adults,29,offer,1,0
+Hurry up!,adults,29,limited,0,1
+Buy now!,students,17,discount,2,0
+Buy now!,parents,31,bestseller,2,1
+Limited offer!,teens,10,offer,1,0
+Don't miss out!,elderly,66,bestseller,2,1
+Limited offer!,parents,31,bestseller,1,0
+Buy now!,students,17,offer,0,0
+50% off!,adults,29,sale,0,1
+50% off!,adults,29,sale,2,1
+Best in town!,adults,29,offer,0,1
+50% off!,elderly,66,bestseller,1,1
+50% off!,students,17,exclusive,1,1
+50% off!,parents,31,bestseller,3,1
+Hurry up!,elderly,66,bestseller,0,0
+Don't miss out!,parents,31,bestseller,3,0
+Don't miss out!,teens,10,discount,0,0
+50% off!,adults,29,discount,2,1
+Best in town!,elderly,66,sale,1,1
+Limited offer!,parents,31,limited,0,1
+Limited offer!,students,17,exclusive,2,0
+50% off!,teens,10,bestseller,1,1
+Best in town!,adults,29,offer,3,1
+Best in town!,elderly,66,bestseller,0,1
+Don't miss out!,adults,29,sale,2,0
+Hurry up!,elderly,66,exclusive,3,0
+Limited offer!,parents,31,discount,3,0
+Hurry up!,adults,29,exclusive,1,1
+Buy now!,adults,29,sale,0,0
+Limited offer!,parents,31,offer,2,0
+Best in town!,adults,29,exclusive,0,0
+Buy now!,teens,10,bestseller,3,0
+Hurry up!,parents,31,limited,3,1
+Best in town!,teens,10,exclusive,0,1
+Hurry up!,elderly,66,offer,0,0
+Buy now!,students,17,discount,1,1
+Buy now!,students,17,discount,1,1
+Hurry up!,adults,29,sale,1,1
+Buy now!,elderly,66,bestseller,2,0
+Limited offer!,teens,10,sale,2,0
+Don't miss out!,adults,29,sale,0,0
+50% off!,elderly,66,exclusive,3,0
+Limited offer!,teens,10,sale,2,0
+Limited offer!,elderly,66,offer,0,0
+Buy now!,students,17,bestseller,0,0
+50% off!,elderly,66,exclusive,1,1
+Limited offer!,parents,31,sale,2,0
+Hurry up!,adults,29,limited,3,1
+Best in town!,adults,29,offer,1,0
+Don't miss out!,adults,29,discount,2,1
+Don't miss out!,teens,10,exclusive,1,1
+50% off!,elderly,66,bestseller,0,1
+50% off!,students,17,bestseller,0,1
+Best in town!,elderly,66,limited,3,1
+Don't miss out!,parents,31,offer,0,0
+Best in town!,elderly,66,sale,2,0
+50% off!,elderly,66,limited,1,0
+50% off!,parents,31,exclusive,1,1
+Buy now!,teens,10,sale,1,0
+50% off!,elderly,66,discount,2,1
+50% off!,parents,31,sale,2,1
+Limited offer!,elderly,66,sale,0,1
+50% off!,adults,29,bestseller,1,1
+Buy now!,parents,31,offer,2,1
+50% off!,parents,31,offer,2,1
+Best in town!,parents,31,discount,2,1
+Don't miss out!,adults,29,exclusive,3,1
+Don't miss out!,parents,31,limited,2,0
+Don't miss out!,parents,31,bestseller,3,0
+Hurry up!,elderly,66,offer,2,0
+Hurry up!,elderly,66,offer,2,0
+Limited offer!,students,17,discount,1,1
+Hurry up!,teens,10,offer,2,1
+Don't miss out!,students,17,limited,2,0
+Best in town!,elderly,66,offer,1,1
+Don't miss out!,teens,10,limited,1,0
+Limited offer!,teens,10,exclusive,2,1
+Limited offer!,adults,29,limited,0,0
+Buy now!,students,17,discount,1,0
+Best in town!,teens,10,bestseller,2,0
+Limited offer!,adults,29,sale,3,1
+Best in town!,teens,10,discount,1,0
+Don't miss out!,parents,31,discount,0,1
+Limited offer!,elderly,66,bestseller,1,1
+Best in town!,students,17,offer,1,1
+Hurry up!,elderly,66,exclusive,0,0
+Best in town!,teens,10,sale,2,1
+Best in town!,elderly,66,limited,1,0
+50% off!,adults,29,offer,1,1
+Don't miss out!,adults,29,limited,1,0
+Hurry up!,elderly,66,discount,2,0
+50% off!,teens,10,exclusive,2,1
+Don't miss out!,parents,31,exclusive,1,1
+Buy now!,teens,10,sale,1,1
+Best in town!,elderly,66,sale,2,1
+Best in town!,adults,29,discount,0,1
+Buy now!,parents,31,bestseller,1,1
+Buy now!,adults,29,discount,0,0
+Limited offer!,elderly,66,discount,1,0
+Buy now!,elderly,66,discount,0,0
+Best in town!,teens,10,discount,0,1
+50% off!,parents,31,limited,1,1
+Best in town!,students,17,discount,2,0
+Hurry up!,adults,29,sale,3,0
+Don't miss out!,adults,29,exclusive,1,1
+Buy now!,parents,31,exclusive,3,1
+Limited offer!,parents,31,offer,2,1
+Buy now!,adults,29,offer,3,0
+Hurry up!,students,17,discount,3,1
+Limited offer!,elderly,66,discount,3,1
+Best in town!,adults,29,bestseller,1,1
+Best in town!,elderly,66,bestseller,3,1
+Best in town!,adults,29,discount,2,1
+Hurry up!,parents,31,sale,2,1
+Don't miss out!,adults,29,exclusive,3,1
+50% off!,teens,10,limited,1,1
+Buy now!,elderly,66,limited,1,0
+Hurry up!,adults,29,limited,3,1
+Don't miss out!,parents,31,discount,0,1
+50% off!,students,17,limited,1,0
+Best in town!,teens,10,limited,3,0
+Don't miss out!,students,17,limited,1,1
+Buy now!,teens,10,limited,1,1
+50% off!,teens,10,bestseller,1,0
+Best in town!,parents,31,exclusive,3,1
+Don't miss out!,parents,31,sale,1,1
+Limited offer!,teens,10,offer,0,0
+50% off!,adults,29,offer,2,0
+Don't miss out!,teens,10,offer,0,1
+50% off!,adults,29,limited,1,0
+Limited offer!,elderly,66,exclusive,2,0
+Limited offer!,teens,10,discount,3,0
+Limited offer!,parents,31,sale,1,1
+Buy now!,parents,31,exclusive,3,0
+50% off!,adults,29,discount,1,1
+Hurry up!,parents,31,offer,2,1
+Buy now!,parents,31,offer,1,0
+Hurry up!,teens,10,discount,0,1
+Limited offer!,elderly,66,sale,0,1
+Best in town!,adults,29,sale,0,0
+50% off!,elderly,66,discount,0,1
+Limited offer!,adults,29,limited,1,1
+50% off!,adults,29,limited,1,1
+Don't miss out!,adults,29,bestseller,0,1
+Buy now!,elderly,66,exclusive,3,1
+Buy now!,parents,31,offer,2,0
+50% off!,students,17,limited,1,0
+Best in town!,elderly,66,limited,3,1
+Buy now!,students,17,exclusive,1,0
+Best in town!,elderly,66,discount,3,0
+Best in town!,parents,31,sale,3,1
+Best in town!,students,17,bestseller,2,0
+Don't miss out!,parents,31,bestseller,1,0
+Buy now!,teens,10,exclusive,2,0
+Buy now!,adults,29,offer,1,1
+Limited offer!,adults,29,discount,0,0
+Don't miss out!,teens,10,bestseller,0,0
+Best in town!,students,17,offer,1,0
+Hurry up!,adults,29,offer,0,1
+Buy now!,teens,10,exclusive,1,1
+50% off!,adults,29,discount,1,1
+50% off!,parents,31,exclusive,1,0
+Buy now!,elderly,66,sale,2,0
+Don't miss out!,parents,31,offer,2,0
+50% off!,parents,31,discount,2,1
+Don't miss out!,parents,31,bestseller,0,1
+Limited offer!,elderly,66,sale,0,1
+Limited offer!,parents,31,discount,2,0
+Best in town!,parents,31,sale,3,1
+Buy now!,teens,10,offer,0,1
+Don't miss out!,elderly,66,limited,0,1
+Limited offer!,adults,29,discount,1,1
+Hurry up!,teens,10,offer,2,0
+Don't miss out!,teens,10,discount,0,0
+Hurry up!,students,17,bestseller,2,0
+Limited offer!,students,17,bestseller,2,1
+Hurry up!,parents,31,offer,3,1
+Limited offer!,parents,31,offer,3,0
+50% off!,elderly,66,limited,1,0
+Limited offer!,students,17,exclusive,1,0
+50% off!,parents,31,exclusive,1,0
+Best in town!,students,17,offer,1,0
+Hurry up!,parents,31,exclusive,3,1
+Best in town!,parents,31,offer,0,1
+Don't miss out!,parents,31,sale,1,1
+Buy now!,elderly,66,sale,0,1
+Limited offer!,adults,29,limited,3,0
+Don't miss out!,students,17,sale,2,0
+Limited offer!,elderly,66,offer,0,1
+Limited offer!,students,17,discount,0,0
+Limited offer!,adults,29,bestseller,3,1
+Don't miss out!,students,17,exclusive,1,1
+Limited offer!,adults,29,sale,1,1
+Buy now!,elderly,66,sale,2,1
+Buy now!,elderly,66,discount,3,1
+Best in town!,adults,29,discount,2,1
+Don't miss out!,students,17,sale,2,0
+Limited offer!,adults,29,limited,1,1
+Limited offer!,parents,31,exclusive,3,1
+Best in town!,parents,31,offer,0,0
+50% off!,teens,10,bestseller,2,1
+Don't miss out!,parents,31,limited,0,1
+Buy now!,parents,31,sale,1,1
+Limited offer!,teens,10,bestseller,1,1
+Hurry up!,teens,10,limited,3,1
+Limited offer!,adults,29,exclusive,3,1
+Best in town!,teens,10,limited,2,0
+Hurry up!,parents,31,offer,0,1
+Buy now!,adults,29,offer,0,0
+Buy now!,elderly,66,bestseller,1,0
+Buy now!,students,17,bestseller,1,0
+Best in town!,elderly,66,exclusive,1,0
+Buy now!,students,17,bestseller,1,0
+Best in town!,teens,10,sale,1,1
+Hurry up!,teens,10,discount,2,1
+Buy now!,elderly,66,sale,1,1
+Best in town!,teens,10,limited,2,1
+Limited offer!,students,17,limited,0,0
+Hurry up!,parents,31,discount,3,1
+Best in town!,teens,10,offer,2,0
+Buy now!,students,17,exclusive,1,1
+Hurry up!,parents,31,exclusive,3,0
+50% off!,adults,29,limited,2,0
+Best in town!,elderly,66,exclusive,2,0
+50% off!,students,17,offer,3,0
+Best in town!,adults,29,discount,1,1
+Best in town!,students,17,bestseller,1,1
+Buy now!,students,17,limited,3,0
+Buy now!,teens,10,exclusive,2,1
+Best in town!,adults,29,offer,2,1
+Don't miss out!,parents,31,limited,3,1
+Limited offer!,students,17,discount,0,1
+Best in town!,teens,10,bestseller,0,1
+Best in town!,teens,10,discount,2,0
+Best in town!,students,17,sale,3,0
+Hurry up!,adults,29,offer,1,1
+50% off!,elderly,66,discount,0,1
+Limited offer!,adults,29,offer,2,1
+50% off!,parents,31,exclusive,0,1
+Hurry up!,elderly,66,discount,2,0
+Don't miss out!,parents,31,exclusive,2,0
+Best in town!,teens,10,limited,0,0
+Limited offer!,students,17,exclusive,0,0
+Buy now!,students,17,sale,0,0
+50% off!,parents,31,exclusive,2,1
+50% off!,teens,10,exclusive,1,0
+Don't miss out!,adults,29,discount,1,1
+50% off!,elderly,66,limited,0,1
+50% off!,parents,31,exclusive,1,1
+Hurry up!,parents,31,bestseller,2,0
+50% off!,students,17,limited,2,1
+Limited offer!,teens,10,bestseller,2,0
+Buy now!,adults,29,offer,1,1
+Hurry up!,teens,10,bestseller,0,0
+Hurry up!,parents,31,limited,1,0
+Hurry up!,teens,10,exclusive,2,1
+Limited offer!,elderly,66,offer,1,0
+Best in town!,elderly,66,bestseller,3,0
+Buy now!,parents,31,bestseller,1,1
+50% off!,adults,29,offer,0,0
+Hurry up!,students,17,offer,0,1
+Hurry up!,parents,31,sale,2,1
+Best in town!,parents,31,discount,1,0
+Limited offer!,parents,31,discount,1,0
+Best in town!,teens,10,discount,2,0
+Buy now!,teens,10,limited,2,1
+Don't miss out!,adults,29,discount,2,1
+Best in town!,parents,31,limited,0,0
+Buy now!,elderly,66,exclusive,0,1
+Buy now!,parents,31,sale,1,0
+Best in town!,students,17,sale,3,0
+Best in town!,elderly,66,bestseller,1,0
+Hurry up!,elderly,66,discount,3,0
+50% off!,teens,10,discount,2,0
+Best in town!,students,17,offer,2,0
+50% off!,elderly,66,bestseller,1,1
+50% off!,parents,31,offer,1,0
+Buy now!,elderly,66,limited,3,0
+Best in town!,elderly,66,discount,0,1
+50% off!,students,17,discount,1,1
+50% off!,students,17,limited,2,1
+Buy now!,adults,29,sale,0,0
+Limited offer!,teens,10,bestseller,0,1
+Best in town!,parents,31,discount,1,1
+Hurry up!,parents,31,bestseller,2,0
+Best in town!,teens,10,discount,1,1
+Don't miss out!,students,17,offer,0,1
+Limited offer!,students,17,discount,0,1
+50% off!,students,17,exclusive,0,0
+50% off!,teens,10,limited,2,1
+50% off!,adults,29,exclusive,0,0
+Limited offer!,teens,10,discount,2,1
+Best in town!,parents,31,exclusive,1,1
+Limited offer!,teens,10,offer,3,1
+Don't miss out!,elderly,66,bestseller,3,1
+Hurry up!,adults,29,limited,3,0
+Best in town!,parents,31,discount,3,1
+Hurry up!,parents,31,bestseller,1,1
+Hurry up!,elderly,66,offer,0,0
+50% off!,teens,10,bestseller,0,1
+Limited offer!,elderly,66,discount,2,1
+Don't miss out!,elderly,66,exclusive,2,0
+Buy now!,parents,31,limited,2,0
+Don't miss out!,parents,31,exclusive,1,0
+50% off!,parents,31,sale,2,1
+Best in town!,adults,29,discount,2,0
+Best in town!,teens,10,bestseller,1,1
+Best in town!,parents,31,bestseller,2,0
+Don't miss out!,adults,29,offer,1,1
+Limited offer!,adults,29,sale,1,1
+Hurry up!,parents,31,limited,0,1
+Hurry up!,adults,29,discount,3,1
+Buy now!,teens,10,offer,1,1
+Limited offer!,adults,29,exclusive,1,1
+Best in town!,adults,29,discount,1,1
+Hurry up!,elderly,66,offer,1,0
+Hurry up!,adults,29,limited,1,0
+Don't miss out!,teens,10,bestseller,1,0
+Best in town!,parents,31,offer,0,1
+Don't miss out!,elderly,66,offer,0,0
+Hurry up!,parents,31,limited,0,1
+Hurry up!,teens,10,limited,1,0
+Best in town!,adults,29,limited,2,1
+Limited offer!,parents,31,sale,1,1
+Don't miss out!,parents,31,discount,0,1
+Best in town!,students,17,limited,2,0
+Don't miss out!,teens,10,bestseller,2,0
+50% off!,adults,29,sale,3,1
+Hurry up!,parents,31,sale,2,0
+Hurry up!,students,17,limited,1,1
+Hurry up!,elderly,66,sale,2,0
+Don't miss out!,teens,10,limited,0,1
+Best in town!,parents,31,offer,2,1
+Buy now!,students,17,exclusive,2,0
+Best in town!,students,17,limited,0,0
+50% off!,teens,10,exclusive,1,1
+Don't miss out!,students,17,offer,2,1
+Best in town!,parents,31,bestseller,3,1
+Buy now!,parents,31,sale,2,1
+50% off!,adults,29,bestseller,2,1
+Best in town!,students,17,exclusive,0,0
+50% off!,parents,31,discount,1,1
+50% off!,elderly,66,exclusive,2,0
+Don't miss out!,students,17,sale,1,1
+Buy now!,parents,31,limited,0,1
+Buy now!,parents,31,sale,2,0
+Buy now!,adults,29,bestseller,2,1
+Don't miss out!,teens,10,discount,2,0
+Best in town!,adults,29,exclusive,3,1
+Best in town!,elderly,66,exclusive,1,1
+Limited offer!,teens,10,exclusive,1,1
+50% off!,elderly,66,offer,2,1
+50% off!,adults,29,bestseller,2,1
+Limited offer!,adults,29,bestseller,2,1
+Don't miss out!,teens,10,sale,1,1
+50% off!,elderly,66,limited,1,0
+Hurry up!,teens,10,offer,0,0
+Best in town!,teens,10,offer,1,0
+Hurry up!,teens,10,sale,3,1
+Buy now!,elderly,66,discount,3,0
+Best in town!,adults,29,exclusive,3,1
+Buy now!,teens,10,offer,1,0
+Don't miss out!,adults,29,exclusive,1,1
+Hurry up!,students,17,limited,1,1
+50% off!,teens,10,bestseller,0,0
+Limited offer!,teens,10,discount,2,0
+Hurry up!,parents,31,bestseller,1,1
+Limited offer!,students,17,sale,0,1
+Best in town!,teens,10,sale,1,1
+Hurry up!,elderly,66,discount,2,0
+Don't miss out!,parents,31,offer,2,1
+Buy now!,parents,31,offer,2,1
+50% off!,students,17,sale,0,0
+50% off!,adults,29,offer,2,1
+Hurry up!,students,17,limited,1,1
+Limited offer!,elderly,66,limited,0,0
+Buy now!,teens,10,discount,1,1
+50% off!,elderly,66,limited,0,1
+Best in town!,elderly,66,bestseller,2,1
+Buy now!,parents,31,offer,1,1
+Limited offer!,elderly,66,exclusive,3,0
+Hurry up!,parents,31,limited,1,1
+Best in town!,adults,29,offer,1,1
+Hurry up!,elderly,66,bestseller,3,0
+Buy now!,elderly,66,discount,3,1
+Don't miss out!,parents,31,sale,0,1
+Buy now!,elderly,66,limited,1,0
+Buy now!,students,17,sale,3,0
+Hurry up!,elderly,66,exclusive,1,0
+Hurry up!,elderly,66,offer,2,0
+Best in town!,elderly,66,limited,1,0
+50% off!,elderly,66,discount,0,1
+Best in town!,adults,29,sale,0,1
+Hurry up!,parents,31,limited,1,1
+50% off!,students,17,sale,1,1
+50% off!,students,17,limited,0,0
+Hurry up!,adults,29,bestseller,1,0
+Limited offer!,students,17,sale,2,1
+Best in town!,teens,10,discount,0,0
+Buy now!,adults,29,bestseller,2,1
+50% off!,adults,29,discount,1,0
+Limited offer!,parents,31,limited,1,1
+Hurry up!,parents,31,discount,1,1
+50% off!,parents,31,sale,1,1
+Best in town!,students,17,sale,1,1
+Buy now!,elderly,66,exclusive,0,1
+Best in town!,teens,10,offer,0,1
+50% off!,parents,31,exclusive,3,0
+Best in town!,elderly,66,discount,3,1
+Best in town!,adults,29,exclusive,1,1
+Don't miss out!,teens,10,offer,2,0
+Don't miss out!,elderly,66,discount,0,0
+Limited offer!,elderly,66,bestseller,1,0
+Limited offer!,adults,29,discount,0,1
+Limited offer!,teens,10,limited,1,0
+Buy now!,elderly,66,offer,1,0
+Limited offer!,elderly,66,bestseller,0,1
+50% off!,elderly,66,exclusive,2,0
+Limited offer!,elderly,66,bestseller,0,0
+Limited offer!,elderly,66,bestseller,2,1
+Don't miss out!,parents,31,limited,0,0
+Hurry up!,elderly,66,sale,2,0
+Best in town!,adults,29,exclusive,3,0
+Buy now!,students,17,offer,2,1
+50% off!,students,17,offer,3,0
+Buy now!,students,17,exclusive,0,1
+Limited offer!,adults,29,sale,1,1
+50% off!,parents,31,discount,0,1
+Best in town!,elderly,66,bestseller,0,0
+50% off!,teens,10,discount,0,0
+Limited offer!,adults,29,exclusive,2,1
+Limited offer!,teens,10,exclusive,1,0
+Limited offer!,parents,31,bestseller,1,1
+Limited offer!,students,17,exclusive,0,0
+Limited offer!,students,17,bestseller,2,1
+Hurry up!,adults,29,limited,0,1
+Don't miss out!,students,17,exclusive,3,0
+Best in town!,adults,29,discount,0,0
+50% off!,teens,10,limited,2,0
+Don't miss out!,parents,31,exclusive,0,0
+Don't miss out!,parents,31,bestseller,2,1
+Limited offer!,adults,29,discount,2,0
+50% off!,adults,29,exclusive,2,0
+50% off!,adults,29,exclusive,0,1
+Don't miss out!,parents,31,bestseller,3,0
+Hurry up!,elderly,66,offer,0,0
+50% off!,teens,10,sale,2,0
+Hurry up!,adults,29,limited,0,0
+Don't miss out!,adults,29,offer,2,1
+Hurry up!,adults,29,discount,0,0
+Buy now!,adults,29,exclusive,3,1
+Hurry up!,adults,29,discount,0,0
+Limited offer!,adults,29,discount,0,1
+Don't miss out!,elderly,66,offer,2,1
+Hurry up!,parents,31,offer,0,0
+Hurry up!,elderly,66,offer,3,0
+50% off!,teens,10,limited,1,0
+Hurry up!,elderly,66,limited,0,0
+50% off!,parents,31,discount,3,0
+Hurry up!,parents,31,sale,1,1
+50% off!,parents,31,limited,1,1
+Don't miss out!,elderly,66,limited,0,0
+Hurry up!,elderly,66,discount,2,0
+Buy now!,elderly,66,discount,3,1
+Limited offer!,parents,31,bestseller,1,0
+Limited offer!,elderly,66,limited,2,1
+50% off!,elderly,66,limited,0,0
+50% off!,parents,31,exclusive,1,0
+Don't miss out!,students,17,exclusive,3,0
+Don't miss out!,teens,10,limited,0,0
+Limited offer!,adults,29,discount,0,1
+Limited offer!,parents,31,exclusive,2,1
+Best in town!,students,17,sale,2,0
+Buy now!,elderly,66,exclusive,0,0
+Buy now!,teens,10,bestseller,3,1
+Hurry up!,parents,31,discount,0,0
+50% off!,parents,31,bestseller,1,0
+Limited offer!,students,17,offer,1,1
+Don't miss out!,students,17,exclusive,2,0
+Best in town!,teens,10,exclusive,3,0
+50% off!,elderly,66,limited,0,0
+Limited offer!,teens,10,bestseller,0,1
+Limited offer!,parents,31,sale,0,0
+Limited offer!,students,17,bestseller,2,1
+Buy now!,students,17,exclusive,1,0
+Limited offer!,parents,31,sale,1,1
+Don't miss out!,elderly,66,offer,0,1
+Hurry up!,adults,29,limited,0,1
+Hurry up!,elderly,66,bestseller,0,0
+Buy now!,elderly,66,bestseller,2,0
+Best in town!,parents,31,sale,2,0
+Hurry up!,elderly,66,offer,1,0
+Limited offer!,parents,31,offer,2,0
+Hurry up!,adults,29,bestseller,1,0
+Hurry up!,parents,31,bestseller,1,0
+50% off!,elderly,66,limited,0,0
+Hurry up!,adults,29,sale,1,0
+Limited offer!,teens,10,sale,0,0
+Hurry up!,parents,31,exclusive,1,0
+Don't miss out!,adults,29,exclusive,0,0
+50% off!,students,17,discount,3,0
+Hurry up!,elderly,66,sale,0,0
+Best in town!,adults,29,offer,3,0
+Hurry up!,parents,31,discount,2,0
+Hurry up!,students,17,sale,2,1
+Hurry up!,adults,29,bestseller,0,1
+Hurry up!,elderly,66,sale,0,0
+Buy now!,students,17,bestseller,2,1
+Limited offer!,teens,10,limited,3,0
+Best in town!,elderly,66,exclusive,0,1
+Hurry up!,adults,29,limited,0,0
+50% off!,teens,10,bestseller,0,1
+Limited offer!,elderly,66,limited,3,0
+Best in town!,students,17,discount,1,1
+Limited offer!,parents,31,discount,1,0
+Buy now!,students,17,discount,2,0
+Don't miss out!,students,17,exclusive,2,0
+Limited offer!,elderly,66,discount,0,1
+Limited offer!,students,17,limited,3,0
+50% off!,elderly,66,offer,1,0
+Don't miss out!,parents,31,sale,1,1
+Best in town!,students,17,bestseller,1,1
+Buy now!,elderly,66,offer,3,1
+Hurry up!,parents,31,exclusive,2,1
+Don't miss out!,adults,29,limited,2,0
+Don't miss out!,adults,29,sale,1,1
+50% off!,students,17,offer,2,1
+Buy now!,teens,10,discount,1,1
+Hurry up!,parents,31,exclusive,2,1
+Buy now!,elderly,66,bestseller,0,1
+Best in town!,adults,29,discount,3,0
+Don't miss out!,adults,29,sale,1,1
+Buy now!,elderly,66,exclusive,2,0
+Buy now!,elderly,66,bestseller,2,1
+Don't miss out!,elderly,66,bestseller,1,1
+Limited offer!,students,17,exclusive,3,0
+Buy now!,adults,29,limited,0,0
+50% off!,adults,29,sale,0,0
+Don't miss out!,adults,29,sale,0,0
+Don't miss out!,adults,29,sale,0,1
+Buy now!,parents,31,exclusive,2,0
+50% off!,teens,10,sale,2,1
+Buy now!,adults,29,exclusive,2,1
+Don't miss out!,students,17,limited,0,1
+Best in town!,parents,31,sale,1,1
+Buy now!,teens,10,sale,1,1
+50% off!,elderly,66,discount,0,1
+Best in town!,parents,31,offer,0,1
+Don't miss out!,students,17,exclusive,1,1
+50% off!,parents,31,limited,3,1
+Hurry up!,teens,10,discount,3,0
+Don't miss out!,students,17,sale,0,0
+50% off!,adults,29,offer,1,1
+Buy now!,elderly,66,limited,1,1
+Best in town!,adults,29,limited,2,0
+Limited offer!,elderly,66,offer,2,1
+Best in town!,elderly,66,exclusive,2,0
+Best in town!,teens,10,offer,2,1
+Hurry up!,parents,31,limited,3,1
+Don't miss out!,parents,31,offer,2,0
+50% off!,teens,10,exclusive,1,1
+Don't miss out!,teens,10,discount,3,1
+Hurry up!,parents,31,limited,1,1
+Best in town!,elderly,66,limited,1,1
+50% off!,parents,31,limited,1,0
+50% off!,students,17,exclusive,2,0
+50% off!,adults,29,exclusive,2,1
+50% off!,parents,31,discount,0,1
+50% off!,teens,10,bestseller,2,1
+Hurry up!,parents,31,discount,1,1
+Best in town!,parents,31,limited,2,0
+50% off!,students,17,discount,0,0
+50% off!,elderly,66,discount,0,0
+Buy now!,teens,10,bestseller,0,0
+50% off!,adults,29,exclusive,1,1
+50% off!,elderly,66,sale,3,0
+Best in town!,teens,10,exclusive,2,1
+50% off!,elderly,66,discount,1,1
+Don't miss out!,teens,10,discount,2,1
+Buy now!,students,17,offer,0,0
+Buy now!,teens,10,sale,0,0
+Buy now!,parents,31,limited,1,0
+Hurry up!,adults,29,exclusive,3,1
+Buy now!,students,17,discount,0,1
+Limited offer!,elderly,66,bestseller,1,1
+Buy now!,students,17,bestseller,1,1
+Buy now!,parents,31,sale,1,1
+Hurry up!,teens,10,sale,1,1
+Hurry up!,adults,29,bestseller,2,0
+Best in town!,parents,31,discount,1,0
+Best in town!,teens,10,discount,1,1
+Buy now!,adults,29,discount,0,0
+Limited offer!,teens,10,bestseller,0,1
+Hurry up!,teens,10,sale,0,1
+Limited offer!,teens,10,sale,0,0
+Buy now!,students,17,exclusive,0,1
+50% off!,students,17,limited,3,1
+Limited offer!,adults,29,offer,3,0
+Best in town!,adults,29,limited,3,1
+Don't miss out!,students,17,limited,0,1
+Best in town!,adults,29,exclusive,0,0
+Best in town!,students,17,bestseller,3,1
+Buy now!,teens,10,limited,3,0
+Don't miss out!,students,17,exclusive,3,0
+Buy now!,students,17,limited,3,0
+Best in town!,adults,29,offer,1,1
+Don't miss out!,parents,31,exclusive,2,0
+Limited offer!,adults,29,limited,0,0
+Limited offer!,teens,10,exclusive,2,0
+Hurry up!,adults,29,exclusive,0,1
+Don't miss out!,adults,29,exclusive,2,1
+Best in town!,elderly,66,sale,2,1
+50% off!,parents,31,exclusive,3,1
+Don't miss out!,adults,29,sale,0,0
+Limited offer!,parents,31,exclusive,0,1
+Hurry up!,parents,31,offer,2,1
+Limited offer!,adults,29,bestseller,2,1
+Don't miss out!,adults,29,limited,0,0
+Buy now!,students,17,sale,3,0
+Don't miss out!,parents,31,exclusive,2,0
+Buy now!,elderly,66,limited,2,0
+50% off!,elderly,66,offer,0,0
+Buy now!,elderly,66,bestseller,3,0
+50% off!,adults,29,exclusive,1,1
+Buy now!,parents,31,sale,1,1
+50% off!,students,17,bestseller,2,1
+50% off!,students,17,discount,1,1
+Hurry up!,parents,31,offer,2,1
+Hurry up!,students,17,sale,1,1
+Hurry up!,adults,29,sale,0,0
+Don't miss out!,adults,29,offer,0,1
+Don't miss out!,teens,10,limited,1,0
+Hurry up!,elderly,66,offer,1,0
+Limited offer!,adults,29,limited,0,0
+50% off!,elderly,66,sale,1,1
+Best in town!,adults,29,exclusive,0,1
+Don't miss out!,students,17,exclusive,1,0
+Limited offer!,students,17,exclusive,0,1
+Don't miss out!,elderly,66,bestseller,0,1
+Best in town!,parents,31,bestseller,3,1
+Best in town!,adults,29,bestseller,3,1
+Best in town!,students,17,bestseller,2,0
+50% off!,parents,31,offer,0,0
+Hurry up!,elderly,66,bestseller,0,0
+Buy now!,adults,29,exclusive,3,0
+Buy now!,adults,29,limited,1,0
+Best in town!,teens,10,limited,0,0
+50% off!,parents,31,exclusive,3,1
+Hurry up!,parents,31,sale,0,0
+Best in town!,adults,29,discount,1,1
+Best in town!,elderly,66,bestseller,3,0
+Hurry up!,elderly,66,sale,2,0
+Buy now!,teens,10,offer,1,0
+Best in town!,students,17,limited,2,0
+Limited offer!,parents,31,sale,0,0
+Buy now!,elderly,66,exclusive,1,0
+Best in town!,parents,31,offer,0,1
+Limited offer!,parents,31,offer,1,1
+Limited offer!,parents,31,sale,1,1
+Hurry up!,teens,10,sale,0,0
+Hurry up!,parents,31,offer,1,0
+Hurry up!,elderly,66,sale,1,1
+Limited offer!,adults,29,discount,1,1
+Buy now!,parents,31,discount,3,1
+Buy now!,teens,10,discount,1,0
+Hurry up!,adults,29,exclusive,0,1
+Limited offer!,adults,29,exclusive,0,1
+Limited offer!,teens,10,exclusive,0,0
+Buy now!,teens,10,limited,2,1
+Buy now!,teens,10,exclusive,1,1
+Buy now!,parents,31,exclusive,1,1
+50% off!,adults,29,exclusive,0,0
+Don't miss out!,elderly,66,offer,3,1
+Best in town!,elderly,66,offer,1,1
+Hurry up!,elderly,66,bestseller,3,0
+Buy now!,students,17,offer,1,0
+Best in town!,teens,10,exclusive,1,1
+50% off!,adults,29,limited,0,0
+Limited offer!,teens,10,bestseller,2,1
+Buy now!,elderly,66,offer,0,1
+Hurry up!,elderly,66,bestseller,0,0
+Limited offer!,teens,10,discount,1,1
+Don't miss out!,teens,10,bestseller,1,0
+Best in town!,students,17,sale,0,1
+50% off!,elderly,66,exclusive,0,0
+Buy now!,teens,10,discount,2,0
+Limited offer!,elderly,66,exclusive,0,1
+Hurry up!,adults,29,sale,2,1
+50% off!,teens,10,discount,2,1
+Limited offer!,adults,29,discount,0,0
+50% off!,elderly,66,bestseller,1,0
+50% off!,parents,31,offer,1,1
+Best in town!,elderly,66,offer,3,0
+Hurry up!,students,17,discount,2,1
+50% off!,elderly,66,limited,1,1
+Buy now!,parents,31,exclusive,0,0
+Best in town!,adults,29,discount,2,0
+Best in town!,adults,29,exclusive,3,1
+Best in town!,adults,29,bestseller,2,0
+50% off!,elderly,66,sale,0,1
+Best in town!,parents,31,limited,1,1
+50% off!,students,17,limited,2,0
+Limited offer!,elderly,66,exclusive,1,0
+50% off!,teens,10,limited,1,0
+50% off!,teens,10,exclusive,2,1
+Buy now!,teens,10,limited,2,0
+Limited offer!,students,17,sale,2,1
+50% off!,adults,29,exclusive,1,1
+Don't miss out!,adults,29,discount,3,1
+Limited offer!,elderly,66,limited,1,1
+50% off!,adults,29,sale,2,1
+Best in town!,parents,31,discount,0,0
+Best in town!,students,17,offer,2,0
+Best in town!,adults,29,exclusive,2,0
+Buy now!,adults,29,exclusive,1,0
+Best in town!,parents,31,sale,2,1
+Buy now!,students,17,limited,2,1
+50% off!,students,17,offer,2,1
+Buy now!,parents,31,discount,1,1
+Best in town!,teens,10,discount,3,0
+50% off!,adults,29,offer,2,0
+Best in town!,elderly,66,bestseller,1,1
+50% off!,students,17,exclusive,1,1
+Buy now!,parents,31,bestseller,2,1
+Limited offer!,parents,31,limited,3,1
+50% off!,students,17,limited,0,0
+Limited offer!,parents,31,exclusive,1,1
+50% off!,parents,31,bestseller,1,1
+50% off!,parents,31,offer,0,1
+Hurry up!,parents,31,offer,2,1
+50% off!,adults,29,discount,3,1
+Hurry up!,elderly,66,offer,1,0
+Hurry up!,students,17,bestseller,1,0
+Hurry up!,students,17,offer,2,1
+Limited offer!,parents,31,discount,0,0
+Limited offer!,elderly,66,exclusive,1,1
+50% off!,parents,31,limited,1,0
+Buy now!,teens,10,offer,1,1
+Limited offer!,teens,10,discount,0,0
+Hurry up!,students,17,exclusive,1,1
+Hurry up!,adults,29,sale,2,0
+50% off!,students,17,exclusive,2,0
+Limited offer!,teens,10,exclusive,2,1
+Limited offer!,students,17,discount,1,1
+Don't miss out!,elderly,66,limited,2,0
+Best in town!,adults,29,offer,3,1
+Limited offer!,adults,29,bestseller,3,0
+Buy now!,teens,10,limited,0,0
